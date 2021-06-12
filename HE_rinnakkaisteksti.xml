@@ -49,13 +49,13 @@
           <textualMod eId="textualMod_4" type="renumbering">
             <source eId="textualMod_4__source" href="#mod3" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_11__subsec_2" />
-            <old href="mod_3__qst_1__chp_2__sec_11__subsec_2" />
+            <previous href="mod_3__qst_1__chp_2__sec_11__subsec_2" />
             <new href="mod_3__qst_2__chp_2__sec_11__subsec_3" />
           </textualMod>
           <textualMod eId="textualMod_5" type="renumbering">
             <source eId="textualMod_5__source" href="#mod3" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_11__subsec_3" />
-            <old href="mod_3__qst_1__chp_2__sec_11__subsec_3" />
+            <previous href="mod_3__qst_1__chp_2__sec_11__subsec_3" />
             <new href="mod_3__qst_2__chp_2__sec_11__subsec_4" />
           </textualMod>
           <textualMod eId="textualMod_6" type="substitution">
@@ -67,7 +67,7 @@
           <textualMod eId="textualMod_7" type="insertion">
             <source eId="textualMod_7__source" href="#mod5" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_6" />
-            <new href="mod_5__chp_6__sec_4a" />
+            <new href="mod_5__qst_1__chp_6__sec_4a" />
           </textualMod>
           <textualMod eId="textualMod_8" type="insertion">
             <source eId="textualMod_8__source" href="#mod6" />
@@ -77,43 +77,43 @@
           <textualMod eId="textualMod_9" type="renumbering">
             <source eId="textualMod_9__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_2" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_2" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_2" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_3" />
           </textualMod>
           <textualMod eId="textualMod_10" type="renumbering">
             <source eId="textualMod_10__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_3" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_3" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_3" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_4" />
           </textualMod>
           <textualMod eId="textualMod_11" type="renumbering">
             <source eId="textualMod_11__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_4" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_4" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_4" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_5" />
           </textualMod>
           <textualMod eId="textualMod_12" type="renumbering">
             <source eId="textualMod_12__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_5" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_5" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_5" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_6" />
           </textualMod>
           <textualMod eId="textualMod_13" type="renumbering">
             <source eId="textualMod_13__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_6" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_6" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_6" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_7" />
           </textualMod>
           <textualMod eId="textualMod_14" type="renumbering">
             <source eId="textualMod_14__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_7" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_7" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_7" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_8" />
           </textualMod>
           <textualMod eId="textualMod_15" type="renumbering">
             <source eId="textualMod_15__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_8" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_8" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_8" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_9" />
           </textualMod>
           <textualMod eId="textualMod_16" type="insertion">
@@ -124,7 +124,7 @@
           <textualMod eId="textualMod_17" type="renumbering">
             <source eId="textualMod_17__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_9" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_9" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_9" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_11" />
           </textualMod>
           <textualMod eId="textualMod_18" type="substitution">
@@ -136,13 +136,13 @@
           <textualMod eId="textualMod_19" type="renumbering">
             <source eId="textualMod_19__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_11" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_11" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_11" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_13" />
           </textualMod>
           <textualMod eId="textualMod_20" type="renumbering">
             <source eId="textualMod_20__source" href="#mod6" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_12" />
-            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_12" />
+            <previous href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_12" />
             <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_14" />
           </textualMod>
         </activeModifications>
@@ -260,7 +260,7 @@
                 </quotedStructure>
               </mod>
               <mod eId="mod_3">
-                <quotedStructure eId="mod_3__qst_1">
+                <quotedStructure eId="mod_3__qst_1" refersTo="#currentVersion">
                   <section>
                     <num>11 §</num>
                     <heading>Sairausajan palkka</heading>
@@ -287,7 +287,7 @@
                     </subsection>
                   </section>
                 </quotedStructure>
-                <quotedStructure eId="mod_3__qst_2">
+                <quotedStructure eId="mod_3__qst_2" refersTo="#newVersion">
                   <section>
                     <num>11 §</num>
                     <heading>Sairausajan palkka</heading>
@@ -323,7 +323,7 @@
                 </quotedStructure>
               </mod>
               <mod eId="mod_4">
-                <quotedStructure eId="mod_4__qst_1">
+                <quotedStructure eId="mod_4__qst_1" refersTo="#currentVersion">
                   <section>
                     <num>17 §</num>
                     <heading>Työnantajan kuittausoikeus ja palkkaennakko</heading>
@@ -338,7 +338,7 @@
                     </subsection>
                   </section>
                 </quotedStructure>
-                <quotedStructure eId="mod_4__qst_2">
+                <quotedStructure eId="mod_4__qst_2" refersTo="#newVersion">
                   <section>
                     <num>17 §</num>
                     <heading>Työnantajan kuittausoikeus ja palkkaennakko</heading>
@@ -359,11 +359,11 @@
             <heading>Yleiset säännökset työsopimuksen päättämisestä</heading>
             <p>
               <mod eId="mod_5">
-                <quotedStructure>
-                  <section eId="mod_5__chp_6__sec_4a">
+                <quotedStructure eId="mod_5__qst_1" refersTo="#newVersion">
+                  <section eId="mod_5__qst_1__chp_6__sec_4a">
                     <num>4 a §</num>
-                    <heading eId="mod_5__chp_6__sec_4a__heading">Irtisanomisajan palkka noudatettaessa vaihtelevaa työaikaa</heading>
-                    <subsection eId="mod_5__chp_6__sec_4a__subsec_1">
+                    <heading eId="mod_5__qst__1_chp_6__sec_4a__heading">Irtisanomisajan palkka noudatettaessa vaihtelevaa työaikaa</heading>
+                    <subsection eId="mod_5__qst__1_chp_6__sec_4a__subsec_1">
                       <content>
                         <p>
                           Jos työsopimuksessa on sovittu vaihtelevasta työajasta ja työnantajan irtisanomisaikana tarjoaman työn määrä alittaa viimeistä työvuoroa viimeksi edeltäneiden 12 viikon keskimääräisen työn määrän, työnantajan on korvattava alituksesta aiheutuva ansionmenetys. Korvausvelvollisuutta ei ole, jos työsuhde on ennen irtisanomista kestänyt alle kuukauden. Irtisanomisajan palkka määräytyy vastaavalla tavalla myös silloin, kun on sovittu kiinteästä työajasta ja lisätyön määrä on irtisanomista viimeksi edeltäneiden kuuden kuukauden aikana keskimäärin ylittänyt sovitun määrän vähintään nelinkertaisesti.
@@ -378,9 +378,9 @@
           <blockContainer>
             <num>13 luku</num>
             <heading>Erinäisiä säännöksiä</heading>
-            <block name="luvun sisältö">
+            <p>
               <mod eId="mod_6">
-                <quotedStructure eId="mod_6__qst_1">
+                <quotedStructure eId="mod_6__qst_1" refersTo="#currentVersion">
                   <section>
                     <num>7 §</num>
                     <heading>Poikkeaminen työehtosopimuksella</heading>
@@ -493,7 +493,7 @@
                     </subsection>
                   </section>
                 </quotedStructure>
-                <quotedStructure eId="mod_6__qst_2">
+                <quotedStructure eId="mod_6__qst_2" refersTo="#newVersion">
                   <section>
                     <num>7 §</num>
                     <heading>Poikkeaminen työehtosopimuksella</heading>
@@ -623,7 +623,7 @@
                   </section>
                 </quotedStructure>
               </mod>
-            </block>
+            </p>
           </blockContainer>
         </blockContainer>
         <blockContainer>
