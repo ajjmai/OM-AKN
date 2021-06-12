@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cs01/part2-specs/schemas/akomantoso30.xsd">
+  <judgment name="tuomioistuinratkaisu">
+    <meta>
+      <identification source="#valleala"></identification>
+    </meta>
+    <header></header>
+    <judgmentBody>
+      <introduction></introduction>
+      <background></background>
+      <arguments></arguments>
+      <motivation></motivation>
+      <decision></decision>
+      <remedies></remedies>
+
+    </judgmentBody>
+    <conclusions></conclusions>
+  </judgment>
+</akomaNtoso>
