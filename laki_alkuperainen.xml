@@ -40,16 +40,16 @@
         <TLCPerson eId="valleala" href="/akn/ontology/person/fi/editors/valleala" showAs="Aija Valleala" />
         <TLCPerson eId="niinistö" href="/akn/ontology/person/fi/president/niinistö" showAs="Sauli Niinistö" />
         <TLCPerson eId="lintilä" href="/akn/ontology/person/fi/minister/lintilä" showAs="Mika Lintilä" />
-        <TLCOrganization eId="eduskunta" href="/akn/ontology/organization/fi/parliament" showAs="Eduskunta" />
-        <TLCOrganization eId="tem" href="/akn/ontology/organization/fi/ministry/tem" showAs="Työ- ja elinkeinoministeriö" shortForm="TEM" />
-        <TLCOrganization eId="plm" href="/akn/ontology/organization/fi/ministry/plm" showAs="Puolustusministeriö" shortForm="PLM" />
-        <TLCOrganization eId="pv" href="/akn/ontology/organization/fi/pv" showAs="Puolustusvoimat" shortForm="PV" />
-        <TLCOrganization eId="pääesikunta" href="/akn/ontology/organization/fi/pääesikunta" showAs="Pääesikunta" shortForm="PV" />
-        <TLCOrganization eId="kvtl" href="/akn/ontology/organization/kvtl" showAs="Kansainvälinen televiestintäliitto" />
-        <TLCOrganization eId="kho" href="/akn/ontology/organization/fi/kho" showAs="Korkein hallinto-oikeus" />
+        <TLCOrganization eId="eduskunta" href="http://www.yso.fi/onto/juho/p447" showAs="Eduskunta" />
+        <TLCOrganization eId="tem" href="http://www.yso.fi/onto/juho/p4135" showAs="Työ- ja elinkeinoministeriö" shortForm="TEM" />
+        <TLCOrganization eId="plm" href="http://www.yso.fi/onto/juho/p4139" showAs="Puolustusministeriö" shortForm="PLM" />
+        <TLCOrganization eId="pv" href="http://www.yso.fi/onto/soto/p2141" showAs="Puolustusvoimat" shortForm="PV" />
+        <TLCOrganization eId="pääesikunta" href="http://www.yso.fi/onto/soto/p2109" showAs="Pääesikunta" shortForm="PV" />
+        <TLCOrganization eId="itu" href="http://www.yso.fi/onto/juho/p9991" showAs="Kansainvälinen televiestintäliitto" />
+        <TLCOrganization eId="kho" href="http://www.yso.fi/onto/juho/p2387" showAs="Korkein hallinto-oikeus" />
         <TLCOrganization eId="tav" href="/akn/ontology/organization/fi/parliament/tav" showAs="talousvaliokunta" />
         <TLCOrganization eId="liv" href="/akn/ontology/organization/fi/parliament/liv" showAs="liikenne- ja viestintävalikokunta" />
-        <TLCLocation eId="helsinki" href="/akn/ontology/location/fi/helsinki" showAs="Helsinki" />
+        <TLCLocation eId="helsinki" href="http://www.yso.fi/onto/yso/p94137" showAs="Helsinki" />
         <TLCRole eId="editor" href="/akn/ontology/role/editor" showAs="Editor" />
         <TLCRole eId="author" href="/akn/ontology/role/author" showAs="Author" />
         <TLCRole eId="president" href="/akn/ontology/organisation/fi/president" showAs="Tasavallan Presidentti" />
@@ -66,7 +66,7 @@
         <TLCReference eId="ev" name="eduskunnan vastaus" href="/akn/fi/ev/2017-181" showAs="eduskunnan vastaus" />
         <TLCConcept eId="avaruustoiminta" href="/akn/ontology/concept/avaruustoiminta" showAs="avaruustoiminta" />
         <TLCConcept eId="avaruusesine" href="/akn/ontology/concept/avaruusesine" showAs="avaruusesine" />
-        <TLCConcept eId="toiminnanharjoittaja" href="/akn/ontology/concept/toiminnanharjoittaja" showAs="toiminnanharjoittaja" />
+        <TLCConcept eId="toiminnanharjoittaja" href="http://www.yso.fi/onto/koko/p61764" showAs="toiminnanharjoittaja" />
       </references>
     </meta>
     <preface>
@@ -347,7 +347,7 @@
                 <content>
                   <p>
                     toiminnanharjoittaja noudattaa
-                    <organization refersTo="#kvtl">Kansainvälisen televiestintäliiton</organization>
+                    <organization refersTo="#itu">Kansainvälisen televiestintäliiton</organization>
                     voimassa olevia sääntöjä;
                   </p>
                 </content>
