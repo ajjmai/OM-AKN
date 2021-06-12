@@ -105,12 +105,12 @@
             </content>
           </subsection>
           <subsection eId="sec_1__subsec_2">
-            <intro eId="sec_1__subsec_2__intro">
-              <p>
-                Lakia sovelletaan lisäksi Suomen valtion alueen ulkopuolella harjoitettavaan avaruustoimintaan, jos avaruustoimintaa:
-              </p>
-            </intro>
             <list eId="sec_1__subsec_2__list_1">
+              <intro eId="sec_1__subsec_2__intro">
+                <p>
+                  Lakia sovelletaan lisäksi Suomen valtion alueen ulkopuolella harjoitettavaan avaruustoimintaan, jos avaruustoimintaa:
+                </p>
+              </intro>
               <paragraph eId="sec_1__subsec_2__para_1">
                 <num>1)</num>
                 <content>
@@ -225,12 +225,12 @@
           <num>4 §</num>
           <heading eId="sec_4__heading">Määritelmät</heading>
           <subsection eId="sec_4__subsec_1">
-            <intro eId="sec_4__subsec_1__intro">
-              <p>
-                Tässä laissa tarkoitetaan:
-              </p>
-            </intro>
             <list eId="sec_4__subsec_1__list">
+              <intro eId="sec_4__subsec_1__intro">
+                <p>
+                  Tässä laissa tarkoitetaan:
+                </p>
+              </intro>
               <paragraph eId="sec_2__subsec_1__para_1">
                 <num>1)</num>
                 <content>
@@ -284,12 +284,12 @@
             </content>
           </subsection>
           <subsection eId="sec_5__subsec_2">
-            <intro eId="sec_5__subsec_2__intro">
-              <p>
-                Luvan myöntämisen edellytyksenä on, että:
-              </p>
-            </intro>
             <list eId="sec_5__subsec_2__list">
+              <intro eId="sec_5__subsec_2__intro">
+                <p>
+                  Luvan myöntämisen edellytyksenä on, että:
+                </p>
+              </intro>
               <paragraph eId="sec_5__subsec_2__para_1">
                 <num>1)</num>
                 <content>
@@ -393,14 +393,14 @@
             </content>
           </subsection>
           <subsection eId="sec_6__subsec_2">
-            <intro eId="sec_6__subsec_2__intro">
-              <p>
-                Toiminnanharjoittajan on ilmoitettava
-                <organization refersTo="#tem">työ- ja elinkeinoministeriölle</organization>
-                maan kiertoradalle tai muualle avaruuteen lähetetystä avaruusesineestä seuraavat tiedot:
-              </p>
-            </intro>
             <list eId="sec_6__subsec_2__list">
+              <intro eId="sec_6__subsec_2__intro">
+                <p>
+                  Toiminnanharjoittajan on ilmoitettava
+                  <organization refersTo="#tem">työ- ja elinkeinoministeriölle</organization>
+                  maan kiertoradalle tai muualle avaruuteen lähetetystä avaruusesineestä seuraavat tiedot:
+                </p>
+              </intro>
               <paragraph eId="sec_6__subsec_2__para_1">
                 <num>1)</num>
                 <content>
@@ -443,12 +443,12 @@
               </paragraph>
               <paragraph eId="sec_6__subsec_2__para_6">
                 <num>6)</num>
-                <intro eId="sec_6__subsec_2__para_6__intro">
-                  <p>
-                    avaruusesineen liikeradan parametrit, joita ovat:
-                  </p>
-                </intro>
                 <list eId="sec_6__subsec_2__para_6__list">
+                  <intro eId="sec_6__subsec_2__para_6__intro">
+                    <p>
+                      avaruusesineen liikeradan parametrit, joita ovat:
+                    </p>
+                  </intro>
                   <subparagraph eId="sec_6__subsec_2__para_6__subpara_1">
                     <num>a)</num>
                     <content>
@@ -542,15 +542,15 @@
             </content>
           </subsection>
           <subsection eId="sec_8__subsec_2">
-            <intro eId="sec_8__subsec_2__intro">
-              <p>
-                <organization refersTo="#tem">Työ- ja elinkeinoministeriö</organization>
-                voi olla vaatimatta
-                <ref href="#sec_8__subsec_1">1 momentissa</ref>
-                tarkoitettua vakuutusta, jos:
-              </p>
-            </intro>
             <list eId="sec_8__subsec_2__list">
+              <intro eId="sec_8__subsec_2__intro">
+                <p>
+                  <organization refersTo="#tem">Työ- ja elinkeinoministeriö</organization>
+                  voi olla vaatimatta
+                  <ref href="#sec_8__subsec_1">1 momentissa</ref>
+                  tarkoitettua vakuutusta, jos:
+                </p>
+              </intro>
               <paragraph eId="sec_8__subsec_2__para_1">
                 <num>1)</num>
                 <content>
@@ -715,13 +715,13 @@
           <num>13 §</num>
           <heading eId="sec_13__heading">Luvan muuttaminen ja peruuttaminen</heading>
           <subsection eId="sec_13__subsec_1">
-            <intro eId="sec_13__subsec_1__intro">
-              <p>
-                <organization refersTo="#tem">Työ- ja elinkeinoministeriö</organization>
-                voi muuttaa avaruustoiminnan harjoittamiseen myönnettyä lupaa tai peruuttaa luvan, jos:
-              </p>
-            </intro>
             <list eId="sec_13__subsec_1__list">
+              <intro eId="sec_13__subsec_1__intro">
+                <p>
+                  <organization refersTo="#tem">Työ- ja elinkeinoministeriö</organization>
+                  voi muuttaa avaruustoiminnan harjoittamiseen myönnettyä lupaa tai peruuttaa luvan, jos:
+                </p>
+              </intro>
               <paragraph eId="sec_13__subsec_1__para_1">
                 <num>1)</num>
                 <content>
@@ -937,12 +937,12 @@
           <num>21 §</num>
           <heading eId="sec_21__heading">Rangaistussäännökset</heading>
           <subsection eId="sec_21__subsec_1">
-            <intro eId="sec_21__subsec_1__intro">
-              <p>
-                Joka tahallaan tai törkeästä huolimattomuudesta
-              </p>
-            </intro>
             <list eId="sec_21__subsec_1__list">
+              <intro eId="sec_21__subsec_1__intro">
+                <p>
+                  Joka tahallaan tai törkeästä huolimattomuudesta
+                </p>
+              </intro>
               <paragraph eId="sec_21__subsec_1__para_1">
                 <num>1)</num>
                 <content>
@@ -1036,15 +1036,15 @@
     </body>
     <conclusions>
       <container name="viittaukset_esitöihin">
-      <p>
-        <ref href="#he">HE 157/2017</ref>
-      </p>
-      <p>
-        <ref href="#tavm">TaVM 23/2017</ref>
-      </p>
-      <p>
-        <ref href="#ev">EV 181/2017</ref>
-      </p>
+        <p>
+          <ref href="#he">HE 157/2017</ref>
+        </p>
+        <p>
+          <ref href="#tavm">TaVM 23/2017</ref>
+        </p>
+        <p>
+          <ref href="#ev">EV 181/2017</ref>
+        </p>
       </container>
       <container name="paikka_ja_aika">
         <p>
@@ -1052,14 +1052,14 @@
           <docDate date="2018-01-12">12 päivänä tammikuuta 2018</docDate>
         </p>
       </container>
-        <p>
+      <p>
         <signature>
           <role refersTo="#president">Tasavallan Presidentti</role>
           <person refersTo="#niinistö">Sauli Niinistö</person>
           <role refersTo="#ekm">Elinkeinoministeri</role>
           <person refersTo="#lintilä">Mika Lintilä</person>
         </signature>
-        </p>
+      </p>
     </conclusions>
   </act>
 
