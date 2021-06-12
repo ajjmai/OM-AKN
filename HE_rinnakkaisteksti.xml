@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cs01/part2-specs/schemas/akomantoso30.xsd">
+  <amendment name="rinnakkaisteksti">
+    <meta>
+      <identification source="#valleala">
+        <FRBRWork>
+          <FRBRthis value="/akn/fi/amendment/2017/188/?/!main" />
+          <FRBRuri value="/akn/fi/amendment/2017/188/?/" />
+          <FRBRdate date="2017-00-00" name="" />
+          <FRBRauthor href="" as="#author" />
+          <FRBRcountry value="fi" />
+          <FRBRnumber value="188" />
+          <FRBRname value="Laki työsopimuslain muuttamisesta" />
+          <FRBRprescriptive value="false" />
+          <FRBRauthoritative value="false" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/fi/amendment/2017/188/?/fi@/!main" />
+          <FRBRuri value="/akn/fi/amendment/2017/188/?/fi@" />
+          <FRBRdate date="2017-00-00" name="Approval" />
+          <FRBRauthor href="#valleala" as="#editor" />
+          <FRBRlanguage language="fi" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/fi/amendment/2017/188/?/fi@/!main.xml" />
+          <FRBRuri value="/akn/fi/amendment/2017/188/?/fi@.xml" />
+          <FRBRdate date="2021-06-12" name="Generation" />
+          <FRBRauthor href="#valleala" as="#editor" />
+        </FRBRManifestation>
+      </identification>
+      <analysis source="#valleala">
+        <activeModifications>
+          <textualMod eId="textualMod_1" type="insertion">
+            <source eId="textualMod_1__source" href="#mod_1" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi/!main@#chp_1" />
+            <new href="mod_1__qst_1__chp_1__sec_11" />
+          </textualMod>
+          <textualMod eId="textualMod_2" type="substitution">
+            <source eId="textualMod_2__source" href="#mod2" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_4__subsec_2__para_9" />
+            <old href="mod_2__qst_1__chp_2__sec_4__subsec_2__para_9" />
+            <new href="mod_2__qst_2__chp_2__sec_4__subsec_2__para_9" />
+          </textualMod>
+          <textualMod eId="textualMod_3" type="insertion">
+            <source eId="textualMod_3__source" href="#mod3" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_11" />
+            <new href="mod_3__qst_2__chp_2__sec_11__subsec_2" />
+          </textualMod>
+          <textualMod eId="textualMod_4" type="renumbering">
+            <source eId="textualMod_4__source" href="#mod3" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_11__subsec_2" />
+            <old href="mod_3__qst_1__chp_2__sec_11__subsec_2" />
+            <new href="mod_3__qst_2__chp_2__sec_11__subsec_3" />
+          </textualMod>
+          <textualMod eId="textualMod_5" type="renumbering">
+            <source eId="textualMod_5__source" href="#mod3" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_11__subsec_3" />
+            <old href="mod_3__qst_1__chp_2__sec_11__subsec_3" />
+            <new href="mod_3__qst_2__chp_2__sec_11__subsec_4" />
+          </textualMod>
+          <textualMod eId="textualMod_6" type="substitution">
+            <source eId="textualMod_6__source" href="#mod4" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_17__subsec_1" />
+            <old href="mod_4__qst_1__chp_2__sec_17__subsec_1" />
+            <new href="mod_4__qst_2__chp_2__sec_17__subsec_1" />
+          </textualMod>
+          <textualMod eId="textualMod_7" type="insertion">
+            <source eId="textualMod_7__source" href="#mod5" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_6" />
+            <new href="mod_5__chp_6__sec_4a" />
+          </textualMod>
+          <textualMod eId="textualMod_8" type="insertion">
+            <source eId="textualMod_8__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_2" />
+          </textualMod>
+          <textualMod eId="textualMod_9" type="renumbering">
+            <source eId="textualMod_9__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_2" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_2" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_3" />
+          </textualMod>
+          <textualMod eId="textualMod_10" type="renumbering">
+            <source eId="textualMod_10__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_3" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_3" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_4" />
+          </textualMod>
+          <textualMod eId="textualMod_11" type="renumbering">
+            <source eId="textualMod_11__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_4" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_4" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_5" />
+          </textualMod>
+          <textualMod eId="textualMod_12" type="renumbering">
+            <source eId="textualMod_12__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_5" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_5" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_6" />
+          </textualMod>
+          <textualMod eId="textualMod_13" type="renumbering">
+            <source eId="textualMod_13__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_6" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_6" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_7" />
+          </textualMod>
+          <textualMod eId="textualMod_14" type="renumbering">
+            <source eId="textualMod_14__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_7" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_7" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_8" />
+          </textualMod>
+          <textualMod eId="textualMod_15" type="renumbering">
+            <source eId="textualMod_15__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_8" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_8" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_9" />
+          </textualMod>
+          <textualMod eId="textualMod_16" type="insertion">
+            <source eId="textualMod_16__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_10" />
+          </textualMod>
+          <textualMod eId="textualMod_17" type="renumbering">
+            <source eId="textualMod_17__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_9" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_9" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_11" />
+          </textualMod>
+          <textualMod eId="textualMod_18" type="substitution">
+            <source eId="textualMod_18__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_10" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_10" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_12" />
+          </textualMod>
+          <textualMod eId="textualMod_19" type="renumbering">
+            <source eId="textualMod_19__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_11" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_11" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_13" />
+          </textualMod>
+          <textualMod eId="textualMod_20" type="renumbering">
+            <source eId="textualMod_20__source" href="#mod6" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1__paragraph_12" />
+            <old href="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_12" />
+            <new href="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_14" />
+          </textualMod>
+        </activeModifications>
+      </analysis>
+    </meta>
+    <amendmentBody>
+      <amendmentHeading>
+        <blockContainer>
+          <p>
+            <docNumber>
+              377/2018
+            </docNumber>
+            <docTitle>
+              <docType>Laki</docType>
+              työsopimuslain muuttamisesta
+            </docTitle>
+          </p>
+        </blockContainer>
+        <blockContainer>
+          <p>Eduskunnan päätöksen mukaisesti</p>
+          <block name="muutokset">muutetaan työsopimuslain (55/2001) 2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti sekä 13 luvun 7 §:n 1 momentti,</block>
+          <block name="alkuperäiset">sellaisina kuin ne ovat, 2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti laissa 1448/2016 sekä 13 luvun 7 §:n 1 momentti laissa 1467/2016, sekä</block>
+          <block name="lisäykset">lisätään 1 lukuun uusi 11 § ja 6 lukuun uusi 4 a § seuraavasti:
+          </block>
+        </blockContainer>
+      </amendmentHeading>
+      <amendmentContent>
+        <blockContainer>
+          <blockContainer>
+            <num>1 luku</num>
+            <heading>Yleiset säännökset</heading>
+            <p>
+              <mod eId="mod_1">
+                <quotedStructure eId="mod_1__qst_1" refersTo="#newVersion">
+                  <section eId="mod_1__qst_1__chp_1__sec_11">
+                    <num>11 §</num>
+                    <heading>Vaihtelevaa työaikaa koskeva ehto</heading>
+                    <subsection>
+                      <content>
+                        <p>
+                          <i>Vaihtelevaa työaikaa koskevalla ehdolla</i>
+                          tarkoitetaan työaikajärjestelyä, jossa työntekijän työaika määrättynä ajanjaksona vaihtelee työsopimuksen mukaisen vähimmäismäärän ja enimmäismäärän välillä taikka työaikajärjestelyä, jossa työntekijä sitoutuu tekemään työnantajalle työtä erikseen kutsuttaessa.
+                        </p>
+                      </content>
+                    </subsection>
+                    <subsection>
+                      <content>
+                        <p>
+                        Vaihtelevasta työajasta ei saa työnantajan aloitteesta sopia, jos sopimuksella katettava työnantajan työvoimatarve on kiinteä.
+                      </p>
+                      </content>
+                    </subsection>
+                    <subsection>
+                      <content>
+                        <p>
+                        Vaihtelevaa työaikaa koskevaan ehtoon sisältyvää vähimmäistyöaikaa ei saa työnantajan aloitteesta sopia pienemmäksi kuin työnantajan työvoiman tarve edellyttää. Jos toteutunut työaika edeltäneiltä kuudelta kuukaudelta osoittaa, ettei sovittu vähimmäistyöaika vastaa työnantajan todellista työvoiman tarvetta, työnantajan on työntekijän pyynnöstä neuvoteltava työaikaehdon muuttamisesta vastaamaan todellista tarvetta. Neuvottelut on käytävä kohtuullisessa ajassa ja työntekijällä on oikeus käyttää neuvottelussa avustajaa. Jos uudesta vähimmäistyöajasta ei päästä sopimukseen, työnantajan on kirjallisesti esitettävä asialliset perusteet sille, millä tavalla voimassa oleva työaikaehto vastaa yhä työnantajan työvoimatarvetta.
+                      </p>
+                      </content>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+              </mod>
+            </p>
+          </blockContainer>
+          <blockContainer>
+            <num>2 luku</num>
+            <heading>Työnantajan velvollisuudet</heading>
+            <p>
+              <mod eId="mod_2">
+                <quotedStructure eId="mod_2__qst_1" refersTo="#currentVersion">
+                  <section>
+                    <num>4 §</num>
+                    <heading>Selvitys työnteon keskeisistä ehdoista</heading>
+                    <subsection eId="mod_2__qst_1__chp_2__sec_4__subsec_2">
+                      <list>
+                        <intro>
+                          <p>
+                            Selvitys voidaan antaa yhdellä tai useammalla asiakirjalla tai viittaamalla työsuhteessa sovellettavaan lakiin tai työehtosopimukseen. Selvityksestä on käytävä ilmi ainakin:
+                          </p>
+                        </intro>
+                        <paragraph eId="mod_2__qst_1__chp_2__sec_4__subsec_2__para_9">
+                          <num>9)</num>
+                          <content>
+                            <p>
+                              <del>säännöllinen työaika;</del>
+                            </p>
+                          </content>
+                        </paragraph>
+                      </list>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+                <quotedStructure eId="mod_2__qst_2" refersTo="#newVersion">
+                  <section>
+                    <num>4 §</num>
+                    <heading>Selvitys työnteon keskeisistä ehdoista</heading>
+                    <subsection>
+                      <list>
+                        <intro>
+                          <p>
+                            Selvitys voidaan antaa yhdellä tai useammalla asiakirjalla tai viittaamalla työsuhteessa sovellettavaan lakiin tai työehtosopimukseen. Selvityksestä on käytävä ilmi ainakin:
+                          </p>
+                        </intro>
+                        <paragraph eId="mod_2__qst_2__chp_2__sec_4__subsec_2__para_9">
+                          <num>9)</num>
+                          <content>
+                            <p>
+                              <ins>noudatettava työaika; työnantajan aloitteesta sovitun vaihtelevan työajan osalta on annettava lisäksi selvitys siitä, missä tilanteissa ja missä määrin työnantajalle syntyy työvoimatarvetta;</ins>
+                            </p>
+                          </content>
+                        </paragraph>
+                      </list>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+              </mod>
+              <mod eId="mod_3">
+                <quotedStructure eId="mod_3__qst_1">
+                  <section>
+                    <num>11 §</num>
+                    <heading>Sairausajan palkka</heading>
+                    <subsection>
+                      <content>
+                        <p>
+                          Työntekijällä, joka on sairauden tai tapaturman vuoksi estynyt tekemästä työtään, on oikeus sairausajan palkkaan. Jos työsuhde on jatkunut vähintään kuukauden, työntekijällä on oikeus saada esteen ajalta täysi palkkansa sairastumispäivää seuranneen yhdeksännen arkipäivän loppuun, enintään kuitenkin siihen saakka, kun hänen oikeutensa sairausvakuutuslain (1224/2004) mukaiseen päivärahaan alkaa. Alle kuukauden jatkuneissa työsuhteissa työntekijällä on vastaavasti oikeus saada 50 prosenttia palkastaan.
+                        </p>
+                      </content>
+                    </subsection>
+                    <subsection eId="mod_3__qst_1__chp_2__sec_11__subsec_2">
+                      <content>
+                        <p>
+                          Työntekijällä ei ole oikeutta sairausajan palkkaan, jos hän on aiheuttanut työkyvyttömyytensä tahallaan tai törkeällä huolimattomuudella. Työntekijän on pyydettäessä esitettävä työnantajalle luotettava selvitys työkyvyttömyydestään.
+                        </p>
+                      </content>
+                    </subsection>
+                    <subsection eId="mod_3__qst_1__chp_2__sec_11__subsec_3">
+                      <content>
+                        <p>
+                          Maksettuaan työntekijälle sairausajan palkan työnantajalla on vastaavalta ajalta oikeus saada työntekijälle sairausvakuutuslain tai työtapaturma- ja ammattitautilain (459/2015) mukaan kuuluva päiväraha, enintään kuitenkin maksamaansa palkkaa vastaava määrä.
+                        </p>
+                      </content>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+                <quotedStructure eId="mod_3__qst_2">
+                  <section>
+                    <num>11 §</num>
+                    <heading>Sairausajan palkka</heading>
+                    <subsection>
+                      <content>
+                        <p>
+                          Työntekijällä, joka on sairauden tai tapaturman vuoksi estynyt tekemästä työtään, on oikeus sairausajan palkkaan. Jos työsuhde on jatkunut vähintään kuukauden, työntekijällä on oikeus saada esteen ajalta täysi palkkansa sairastumispäivää seuranneen yhdeksännen arkipäivän loppuun, enintään kuitenkin siihen saakka, kun hänen oikeutensa sairausvakuutuslain (1224/2004) mukaiseen päivärahaan alkaa. Alle kuukauden jatkuneissa työsuhteissa työntekijällä on vastaavasti oikeus saada 50 prosenttia palkastaan.
+                        </p>
+                      </content>
+                    </subsection>
+                    <subsection eId="mod_3__qst_2__chp_2__sec_11__subsec_2">
+                      <content>
+                        <p>
+                          Vaihtelevaa työaikaa noudatettaessa 1 momentin mukainen oikeus sairausajan palkkaan syntyy, jos työkyvyttömyysaikaan kohdistuva työvuoro on merkitty työvuoroluetteloon, siitä on muutoin sovittu taikka olosuhteisiin nähden voidaan muutoin pitää selvänä, että työntekijä olisi työkykyisenä ollut työssä. Sairausajan palkka määräytyy vastaavalla tavalla myös silloin, kun on sovittu kiinteästä työajasta ja lisätyön määrä on sairausajan alkua viimeksi edeltäneiden kuuden kuukauden aikana keskimäärin ylittänyt sovitun määrän vähintään nelinkertaisesti.
+                        </p>
+                      </content>
+                    </subsection>
+                    <subsection eId="mod_3__qst_2__chp_2__sec_11__subsec_3">
+                      <content>
+                        <p>
+                          Työntekijällä ei ole oikeutta sairausajan palkkaan, jos hän on aiheuttanut työkyvyttömyytensä tahallaan tai törkeällä huolimattomuudella. Työntekijän on pyydettäessä esitettävä työnantajalle luotettava selvitys työkyvyttömyydestään.
+                        </p>
+                      </content>
+                    </subsection>
+                    <subsection eId="mod_3__qst_1__chp_2__sec_11__subsec_4">
+                      <content>
+                        <p>
+                          Maksettuaan työntekijälle sairausajan palkan työnantajalla on vastaavalta ajalta oikeus saada työntekijälle sairausvakuutuslain tai työtapaturma- ja ammattitautilain (459/2015) mukaan kuuluva päiväraha, enintään kuitenkin maksamaansa palkkaa vastaava määrä.
+                        </p>
+                      </content>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+              </mod>
+              <mod eId="mod_4">
+                <quotedStructure eId="mod_4__qst_1">
+                  <section>
+                    <num>17 §</num>
+                    <heading>Työnantajan kuittausoikeus ja palkkaennakko</heading>
+                    <subsection eId="mod_4__qst_1__chp_2__sec_17__subsec_1">
+                      <content>
+                        <p>
+                          Työnantaja ei saa kuitata työntekijän palkkasaamista vastasaamisellaan siltä osin kuin palkka on ulosottokaaren (705/2007)
+                          <del>4 luvun 48 §:n</del>
+                          tai sen nojalla annetun asetuksen mukaan jätettävä ulosmittaamatta.
+                        </p>
+                      </content>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+                <quotedStructure eId="mod_4__qst_2">
+                  <section>
+                    <num>17 §</num>
+                    <heading>Työnantajan kuittausoikeus ja palkkaennakko</heading>
+                    <subsection eId="mod_4__qst_2__chp_2__sec_17__subsec_1">
+                      <content>
+                        <p>
+                          Työnantaja ei saa kuitata työntekijän palkkasaamista vastasaamisellaan siltä osin kuin palkka on ulosottokaaren (705/2007) tai sen nojalla annetun asetuksen mukaan jätettävä ulosmittaamatta.
+                        </p>
+                      </content>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+              </mod>
+            </p>
+          </blockContainer>
+          <blockContainer>
+            <num>6 luku</num>
+            <heading>Yleiset säännökset työsopimuksen päättämisestä</heading>
+            <p>
+              <mod eId="mod_5">
+                <quotedStructure>
+                  <section eId="mod_5__chp_6__sec_4a">
+                    <num>4 a §</num>
+                    <heading eId="mod_5__chp_6__sec_4a__heading">Irtisanomisajan palkka noudatettaessa vaihtelevaa työaikaa</heading>
+                    <subsection eId="mod_5__chp_6__sec_4a__subsec_1">
+                      <content>
+                        <p>
+                          Jos työsopimuksessa on sovittu vaihtelevasta työajasta ja työnantajan irtisanomisaikana tarjoaman työn määrä alittaa viimeistä työvuoroa viimeksi edeltäneiden 12 viikon keskimääräisen työn määrän, työnantajan on korvattava alituksesta aiheutuva ansionmenetys. Korvausvelvollisuutta ei ole, jos työsuhde on ennen irtisanomista kestänyt alle kuukauden. Irtisanomisajan palkka määräytyy vastaavalla tavalla myös silloin, kun on sovittu kiinteästä työajasta ja lisätyön määrä on irtisanomista viimeksi edeltäneiden kuuden kuukauden aikana keskimäärin ylittänyt sovitun määrän vähintään nelinkertaisesti.
+                        </p>
+                      </content>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+              </mod>
+            </p>
+          </blockContainer>
+          <blockContainer>
+            <num>13 luku</num>
+            <heading>Erinäisiä säännöksiä</heading>
+            <block name="luvun sisältö">
+              <mod eId="mod_6">
+                <quotedStructure eId="mod_6__qst_1">
+                  <section>
+                    <num>7 §</num>
+                    <heading>Poikkeaminen työehtosopimuksella</heading>
+                    <subsection>
+                      <list>
+                        <intro>
+                          <p>
+                            Työnantajien ja työntekijöiden valtakunnallisilla yhdistyksillä on 6 §:ssä säädetystä poiketen oikeus sopia siitä, mitä säädetään:
+                          </p>
+                        </intro>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_1">
+                          <num>1)</num>
+                          <content>
+                            <p>
+                              1 luvun 5 §:ssä työsuhteen kestosta riippuvista työsuhde-etuuksista;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_2">
+                          <num>2)</num>
+                          <content>
+                            <p>
+                              2 luvun 5 §:ssä työnantajan velvollisuudesta tarjota työtä osa-aikatyöntekijälle;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_3">
+                          <num>3)</num>
+                          <content>
+                            <p>
+                              2 luvun 11 §:ssä sairausajan palkasta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_4">
+                          <num>4)</num>
+                          <content>
+                            <p>
+                              2 luvun 13 §:ssä palkanmaksuajasta ja -kaudesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_5">
+                          <num>5)</num>
+                          <content>
+                            <p>
+                              5 luvun 2 §:n 1 momentin 2 kohdassa ja 2 momentissa tarkoitetun lomauttamisen perusteista, ei kuitenkaan 1 momentin 2 kohdassa tarkoitetun lomautuksen enimmäisajan pidentämisestä;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_6">
+                          <num>6)</num>
+                          <content>
+                            <p>
+                              5 luvun 3 §:ssä ennakkoselvityksestä ja työntekijän kuulemisesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_7">
+                          <num>7)</num>
+                          <content>
+                            <p>
+                              5 luvun 4 §:ssä lomautusilmoituksesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_8">
+                          <num>8)</num>
+                          <content>
+                            <p>
+                              5 luvun 7 §:n 2 momentissa työnantajan oikeudesta vähentää lomautusilmoitusajan palkka irtisanomisajan palkasta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_9">
+                          <num>9)</num>
+                          <content>
+                            <p>
+                              6 luvun 6 §:ssä työntekijän takaisin ottamisesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_10">
+                          <num>10)</num>
+                          <content>
+                            <p>
+                              7 luvun 4 §:ssä työn
+                              <del>tarjoamisvelvollisuudesta koskien tarjoamisvelvollisuuden alueellista laajuutta</del>
+                              ;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_11">
+                          <num>11)</num>
+                          <content>
+                            <p>
+                              7 luvun 13 §:ssä irtisanotun työntekijän oikeudesta työllistymistä edistävään valmennukseen tai koulutukseen;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_1__chp_13__sec_7__subsec_1__paragraph_12">
+                          <num>12)</num>
+                          <content>
+                            <p>
+                              9 luvussa työsopimuksen päättämismenettelystä.
+                            </p>
+                          </content>
+                        </paragraph>
+                      </list>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+                <quotedStructure eId="mod_6__qst_2">
+                  <section>
+                    <num>7 §</num>
+                    <heading>Poikkeaminen työehtosopimuksella</heading>
+                    <subsection>
+                      <list>
+                        <intro>
+                          <p>
+                            Työnantajien ja työntekijöiden valtakunnallisilla yhdistyksillä on 6 §:ssä säädetystä poiketen oikeus sopia siitä, mitä säädetään:
+                          </p>
+                        </intro>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_1">
+                          <num>1)</num>
+                          <content>
+                            <p>
+                              1 luvun 5 §:ssä työsuhteen kestosta riippuvista työsuhde-etuuksista;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_2">
+                          <num>2)</num>
+                          <content>
+                            <p>
+                              1 luvun 11 §:n 3 momentissa tarkoitetusta neuvotteluvelvollisuudesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_3">
+                          <num>3)</num>
+                          <content>
+                            <p>
+                              2 luvun 5 §:ssä työnantajan velvollisuudesta tarjota työtä osa-aikatyöntekijälle;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_4">
+                          <num>4)</num>
+                          <content>
+                            <p>
+                              2 luvun 11 §:ssä sairausajan palkasta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_5">
+                          <num>5)</num>
+                          <content>
+                            <p>
+                              2 luvun 13 §:ssä palkanmaksuajasta ja -kaudesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_6">
+                          <num>6)</num>
+                          <content>
+                            <p>
+                              5 luvun 2 §:n 1 momentin 2 kohdassa ja 2 momentissa tarkoitetun lomauttamisen perusteista, ei kuitenkaan 1 momentin 2 kohdassa tarkoitetun lomautuksen enimmäisajan pidentämisestä;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_7">
+                          <num>7)</num>
+                          <content>
+                            <p>
+                              5 luvun 3 §:ssä ennakkoselvityksestä ja työntekijän kuulemisesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_8">
+                          <num>8)</num>
+                          <content>
+                            <p>
+                              5 luvun 4 §:ssä lomautusilmoituksesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_9">
+                          <num>9)</num>
+                          <content>
+                            <p>
+                              5 luvun 7 §:n 2 momentissa työnantajan oikeudesta vähentää lomautusilmoitusajan palkka irtisanomisajan palkasta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_10">
+                          <num>10)</num>
+                          <content>
+                            <p>
+                              6 luvun 4 a §:ssä korvattavan ansionmenetyksen määräytymisperusteesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_11">
+                          <num>11)</num>
+                          <content>
+                            <p>
+                              6 luvun 6 §:ssä työntekijän takaisin ottamisesta;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_12">
+                          <num>12)</num>
+                          <content>
+                            <p>
+                              7 luvun 4 §:ssä työn
+                              <ins>tarjoamisvelvollisuuden alueellisesta laajuudesta</ins>
+                              ;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_13">
+                          <num>13)</num>
+                          <content>
+                            <p>
+                              7 luvun 13 §:ssä irtisanotun työntekijän oikeudesta työllistymistä edistävään valmennukseen tai koulutukseen;
+                            </p>
+                          </content>
+                        </paragraph>
+                        <paragraph eId="mod_6__qst_2__chp_13__sec_7__subsec_1__paragraph_14">
+                          <num>14)</num>
+                          <content>
+                            <p>
+                              9 luvussa työsopimuksen päättämismenettelystä.
+                            </p>
+                          </content>
+                        </paragraph>
+                      </list>
+                    </subsection>
+                  </section>
+                </quotedStructure>
+              </mod>
+            </block>
+          </blockContainer>
+        </blockContainer>
+        <blockContainer>
+          <block name="voimaantulo">Tämä laki tulee voimaan  päivänä  kuuta 20 .</block>
+          <block name="lisäehto">
+            Jos vaihtelevaa työaikaa koskevan ehdon sisältävä työsopimus on tehty ennen tämän lain voimaantuloa, työnantajan on annettava 2 luvun 4 §:n 2 momentin 9 kohdassa tarkoitettu selvitys työajasta kuuden kuukauden kuluessa lain voimaantulosta. Jos ennen tämän lain voimaantuloa tehty vaihtelevaa työaikaa koskeva ehto ei täytä 1 luvun 11 §:n mukaisia edellytyksiä, työnantajan on tarjottava työntekijälle mahdollisuutta muuttaa ehto vastaamaan työnantajan työvoimatarvetta kuuden kuukauden kuluessa tämän lain voimaantulosta.
+          </block>
+        </blockContainer>
+      </amendmentContent>
+    </amendmentBody>
+  </amendment>
+</akomaNtoso>

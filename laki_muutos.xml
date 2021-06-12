@@ -19,7 +19,7 @@
           <FRBRuri value="/akn/fi/act/2018-05-18/377/fi@" />
           <FRBRdate date="2018-05-18" name="Approval" />
           <FRBRauthor href="#valleala" as="#editor" />
-          <FRBRlanguage language="fin" />
+          <FRBRlanguage language="fi" />
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/fi/act/2018-05-18/377/fi@/!main.xml" />
@@ -28,6 +28,34 @@
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>
       </identification>
+      <analysis source="#valleala">
+        <activeModifications>
+          <textualMod eId="textualMod_1" type="insertion">
+            <source eId="textualMod_1__source" href="#chp_1__sec_11" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi/!main@#chp_1__sec_11" />
+          </textualMod>
+          <textualMod eId="textualMod_2" type="substitution">
+            <source eId="textualMod_2__source" href="#chp_2__sec_4__subsec_2__para_9" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_4__subsec_2__para_9" />
+          </textualMod>
+          <textualMod eId="textualMod_3" type="substitution">
+            <source eId="textualMod_3__source" href="#chp_2__sec_11" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_11" />
+          </textualMod>
+          <textualMod eId="textualMod_4" type="substitution">
+            <source eId="textualMod_4__source" href="#chp_2__sec_17__subsec_1" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_17__subsec_1" />
+          </textualMod>
+          <textualMod eId="textualMod_5" type="insertion">
+            <source eId="textualMod_5__source" href="#chp_6__sec_4a" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_6" />
+          </textualMod>
+          <textualMod eId="textualMod_6" type="substitution">
+            <source eId="textualMod_6__source" href="#chp_13__sec_7__subsec_1" />
+            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1" />
+          </textualMod>
+        </activeModifications>
+      </analysis>
     </meta>
     <preface>
       <p>
@@ -43,34 +71,35 @@
     <preamble>
       <formula name="">
         <p>Eduskunnan päätöksen mukaisesti</p>
-        <p>muutetaan työsopimuslain (55/2001) 2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti sekä 13 luvun 7 §:n 1 momentti,</p>
-        <p>sellaisina kuin ne ovat, 2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti laissa 1448/2016 sekä 13 luvun 7 §:n 1 momentti laissa 1467/2016, sekä</p>
-        <p>lisätään 1 lukuun uusi 11 § ja 6 lukuun uusi 4 a § seuraavasti:
-        </p>
+        <block name="muutokset">muutetaan työsopimuslain (55/2001) 2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti sekä 13 luvun 7 §:n 1 momentti,</block>
+        <block name="alkuperäiset">sellaisina kuin ne ovat, 2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti laissa 1448/2016 sekä 13 luvun 7 §:n 1 momentti laissa 1467/2016, sekä</block>
+        <block name="lisäykset">lisätään 1 lukuun uusi 11 § ja 6 lukuun uusi 4 a § seuraavasti:
+        </block>
       </formula>
     </preamble>
     <body>
       <chapter eId="chp_1">
         <num>1 luku</num>
         <heading eId="chp_1__heading">Yleiset säännökset</heading>
-        <section>
+        <section eId="chp_1__sec_11">
           <num>11 §</num>
-          <heading>Vaihtelevaa työaikaa koskeva ehto</heading>
-          <subsection>
+          <heading eId="chp_1__sec_11__heading">Vaihtelevaa työaikaa koskeva ehto</heading>
+          <subsection eId="chp_1__sec_11__subsec_1">
             <content>
               <p>
-                Vaihtelevaa työaikaa koskevalla ehdolla tarkoitetaan työaikajärjestelyä, jossa työntekijän työaika määrättynä ajanjaksona vaihtelee työsopimuksen mukaisen vähimmäismäärän ja enimmäismäärän välillä taikka työaikajärjestelyä, jossa työntekijä sitoutuu tekemään työnantajalle työtä erikseen kutsuttaessa.
+                <i>Vaihtelevaa työaikaa koskevalla ehdolla</i>
+                tarkoitetaan työaikajärjestelyä, jossa työntekijän työaika määrättynä ajanjaksona vaihtelee työsopimuksen mukaisen vähimmäismäärän ja enimmäismäärän välillä taikka työaikajärjestelyä, jossa työntekijä sitoutuu tekemään työnantajalle työtä erikseen kutsuttaessa.
               </p>
             </content>
           </subsection>
-          <subsection>
+          <subsection eId="chp_1__sec_11__subsec_2">
             <content>
               <p>
                 Vaihtelevasta työajasta ei saa työnantajan aloitteesta sopia, jos sopimuksella katettava työnantajan työvoimatarve on kiinteä.
               </p>
             </content>
           </subsection>
-          <subsection>
+          <subsection eId="chp_1__sec_11__subsec_3">
             <content>
               <p>
                 Vaihtelevaa työaikaa koskevaan ehtoon sisältyvää vähimmäistyöaikaa ei saa työnantajan aloitteesta sopia pienemmäksi kuin työnantajan työvoiman tarve edellyttää. Jos toteutunut työaika edeltäneiltä kuudelta kuukaudelta osoittaa, ettei sovittu vähimmäistyöaika vastaa työnantajan todellista työvoiman tarvetta, työnantajan on työntekijän pyynnöstä neuvoteltava työaikaehdon muuttamisesta vastaamaan todellista tarvetta. Neuvottelut on käytävä kohtuullisessa ajassa ja työntekijällä on oikeus käyttää neuvottelussa avustajaa. Jos uudesta vähimmäistyöajasta ei päästä sopimukseen, työnantajan on kirjallisesti esitettävä asialliset perusteet sille, millä tavalla voimassa oleva työaikaehto vastaa yhä työnantajan työvoimatarvetta.
@@ -79,20 +108,20 @@
           </subsection>
         </section>
       </chapter>
-      <chapter>
+      <chapter eId="chp_2">
         <num>2 luku</num>
-        <heading>Työnantajan velvollisuudet</heading>
-        <section>
+        <heading eId="chp_2__heading">Työnantajan velvollisuudet</heading>
+        <section eId="chp_2__sec_4">
           <num>4 §</num>
-          <heading>Selvitys työnteon keskeisistä ehdoista</heading>
-          <subsection>
-            <list>
-              <intro>
+          <heading eId="chp_2__sec_4__heading">Selvitys työnteon keskeisistä ehdoista</heading>
+          <subsection eId="chp_2__sec_4__subsec_2">
+            <list eId="chp_2__sec_4__subsec_2__list">
+              <intro eId="chp_2__sec_4__subsec_2__intro">
                 <p>
                   Selvitys voidaan antaa yhdellä tai useammalla asiakirjalla tai viittaamalla työsuhteessa sovellettavaan lakiin tai työehtosopimukseen. Selvityksestä on käytävä ilmi ainakin:
                 </p>
               </intro>
-              <paragraph>
+              <paragraph eId="chp_2__sec_4__subsec_2__para_9">
                 <num>9)</num>
                 <content>
                   <p>
@@ -103,31 +132,31 @@
             </list>
           </subsection>
         </section>
-        <section>
+        <section eId="chp_2__sec_11">
           <num>11 §</num>
-          <heading>Sairausajan palkka</heading>
-          <subsection>
+          <heading eId="chp_2__sec_11__heading">Sairausajan palkka</heading>
+          <subsection eId="chp_2__sec_11__subsec_1">
             <content>
               <p>
                 Työntekijällä, joka on sairauden tai tapaturman vuoksi estynyt tekemästä työtään, on oikeus sairausajan palkkaan. Jos työsuhde on jatkunut vähintään kuukauden, työntekijällä on oikeus saada esteen ajalta täysi palkkansa sairastumispäivää seuranneen yhdeksännen arkipäivän loppuun, enintään kuitenkin siihen saakka, kun hänen oikeutensa sairausvakuutuslain (1224/2004) mukaiseen päivärahaan alkaa. Alle kuukauden jatkuneissa työsuhteissa työntekijällä on vastaavasti oikeus saada 50 prosenttia palkastaan.
               </p>
             </content>
           </subsection>
-          <subsection>
+          <subsection eId="chp_2__sec_11__subsec_2">
             <content>
               <p>
                 Vaihtelevaa työaikaa noudatettaessa 1 momentin mukainen oikeus sairausajan palkkaan syntyy, jos työkyvyttömyysaikaan kohdistuva työvuoro on merkitty työvuoroluetteloon, siitä on muutoin sovittu taikka olosuhteisiin nähden voidaan muutoin pitää selvänä, että työntekijä olisi työkykyisenä ollut työssä. Sairausajan palkka määräytyy vastaavalla tavalla myös silloin, kun on sovittu kiinteästä työajasta ja lisätyön määrä on sairausajan alkua viimeksi edeltäneiden kuuden kuukauden aikana keskimäärin ylittänyt sovitun määrän vähintään nelinkertaisesti.
               </p>
             </content>
           </subsection>
-          <subsection>
+          <subsection eId="chp_2__sec_11__subsec_3">
             <content>
               <p>
                 Työntekijällä ei ole oikeutta sairausajan palkkaan, jos hän on aiheuttanut työkyvyttömyytensä tahallaan tai törkeällä huolimattomuudella. Työntekijän on pyydettäessä esitettävä työnantajalle luotettava selvitys työkyvyttömyydestään.
               </p>
             </content>
           </subsection>
-          <subsection>
+          <subsection eId="chp_2__sec_11__subsec_4">
             <content>
               <p>
                 Maksettuaan työntekijälle sairausajan palkan työnantajalla on vastaavalta ajalta oikeus saada työntekijälle sairausvakuutuslain tai työtapaturma- ja ammattitautilain (459/2015) mukaan kuuluva päiväraha, enintään kuitenkin maksamaansa palkkaa vastaava määrä.
@@ -135,10 +164,10 @@
             </content>
           </subsection>
         </section>
-        <section>
+        <section eId="chp_2__sec_17">
           <num>17 §</num>
-          <heading>Työnantajan kuittausoikeus ja palkkaennakko</heading>
-          <subsection>
+          <heading eId="chp_2__sec_17__heading">Työnantajan kuittausoikeus ja palkkaennakko</heading>
+          <subsection eId="chp_2__sec_17__subsec_1">
             <content>
               <p>
                 Työnantaja ei saa kuitata työntekijän palkkasaamista vastasaamisellaan siltä osin kuin palkka on ulosottokaaren (705/2007) tai sen nojalla annetun asetuksen mukaan jätettävä ulosmittaamatta.
@@ -147,13 +176,13 @@
           </subsection>
         </section>
       </chapter>
-      <chapter>
+      <chapter eId="chp_6">
         <num>6 luku</num>
-        <heading>Yleiset säännökset työsopimuksen päättämisestä</heading>
-        <section>
+        <heading eId="chp_6__heading">Yleiset säännökset työsopimuksen päättämisestä</heading>
+        <section eId="chp_6__sec_4a">
           <num>4 a §</num>
-          <heading>Irtisanomisajan palkka noudatettaessa vaihtelevaa työaikaa</heading>
-          <subsection>
+          <heading eId="chp_6__sec_4a__heading">Irtisanomisajan palkka noudatettaessa vaihtelevaa työaikaa</heading>
+          <subsection eId="chp_6__sec_4a__subsec_1">
             <content>
               <p>
                 Jos työsopimuksessa on sovittu vaihtelevasta työajasta ja työnantajan irtisanomisaikana tarjoaman työn määrä alittaa viimeistä työvuoroa viimeksi edeltäneiden 12 viikon keskimääräisen työn määrän, työnantajan on korvattava alituksesta aiheutuva ansionmenetys. Korvausvelvollisuutta ei ole, jos työsuhde on ennen irtisanomista kestänyt alle kuukauden. Irtisanomisajan palkka määräytyy vastaavalla tavalla myös silloin, kun on sovittu kiinteästä työajasta ja lisätyön määrä on irtisanomista viimeksi edeltäneiden kuuden kuukauden aikana keskimäärin ylittänyt sovitun määrän vähintään nelinkertaisesti.
@@ -162,20 +191,20 @@
           </subsection>
         </section>
       </chapter>
-      <chapter>
+      <chapter eId="chp_13">
         <num>13 luku</num>
-        <heading>Erinäisiä säännöksiä</heading>
-        <section>
+        <heading eId="chp_13__heading">Erinäisiä säännöksiä</heading>
+        <section eId="chp_13__sec_7">
           <num>7 §</num>
-          <heading>Poikkeaminen työehtosopimuksella</heading>
-          <subsection>
-            <list>
-              <intro>
+          <heading eId="chp_13__sec_7__heading">Poikkeaminen työehtosopimuksella</heading>
+          <subsection eId="chp_13__sec_7__subsec_1">
+            <list eId="chp_13__sec_7__subsec_1__list">
+              <intro eId="chp_13__sec_7__subsec_1__intro">
                 <p>
                   Työnantajien ja työntekijöiden valtakunnallisilla yhdistyksillä on 6 §:ssä säädetystä poiketen oikeus sopia siitä, mitä säädetään:
                 </p>
               </intro>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_1">
                 <num>1)</num>
                 <content>
                   <p>
@@ -183,7 +212,7 @@
                 </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_2">
                 <num>2)</num>
                 <content>
                   <p>
@@ -191,7 +220,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_3">
                 <num>3)</num>
                 <content>
                   <p>
@@ -199,7 +228,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_4">
                 <num>4)</num>
                 <content>
                   <p>
@@ -207,7 +236,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_5">
                 <num>5)</num>
                 <content>
                   <p>
@@ -215,7 +244,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_6">
                 <num>6)</num>
                 <content>
                   <p>
@@ -223,7 +252,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_7">
                 <num>7)</num>
                 <content>
                   <p>
@@ -231,7 +260,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_8">
                 <num>8)</num>
                 <content>
                   <p>
@@ -239,7 +268,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_9">
                 <num>9)</num>
                 <content>
                   <p>
@@ -247,7 +276,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_10">
                 <num>10)</num>
                 <content>
                   <p>
@@ -255,7 +284,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_11">
                 <num>11)</num>
                 <content>
                   <p>
@@ -263,7 +292,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_12">
                 <num>12)</num>
                 <content>
                   <p>
@@ -271,7 +300,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_13">
                 <num>13)</num>
                 <content>
                   <p>
@@ -279,7 +308,7 @@
                   </p>
                 </content>
               </paragraph>
-              <paragraph>
+              <paragraph eId="chp_13__sec_7__subsec_1__paragraph_14">
                 <num>14)</num>
                 <content>
                   <p>
@@ -291,14 +320,14 @@
           </subsection>
         </section>
       </chapter>
-      <section>
+      <hcontainer name="voimaantulo">
         <content>
           <p>Tämä laki tulee voimaan 1 päivänä kesäkuuta 2018.</p>
           <p>
             Jos vaihtelevaa työaikaa koskevan ehdon sisältävä työsopimus on tehty ennen tämän lain voimaantuloa, työnantajan on annettava 2 luvun 4 §:n 2 momentin 9 kohdassa tarkoitettu selvitys työajasta kuuden kuukauden kuluessa lain voimaantulosta. Jos ennen tämän lain voimaantuloa tehty vaihtelevaa työaikaa koskeva ehto ei täytä 1 luvun 11 §:n mukaisia edellytyksiä, työnantajan on tarjottava työntekijälle mahdollisuutta muuttaa ehto vastaamaan työnantajan työvoimatarvetta kuuden kuukauden kuluessa tämän lain voimaantulosta.
           </p>
         </content>
-      </section>
+      </hcontainer>
     </body>
     <conclusions>
       <container name="viittaukset_esitöihin">
