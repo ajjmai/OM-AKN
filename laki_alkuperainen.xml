@@ -19,7 +19,7 @@
           <FRBRuri value="/akn/fi/act/2018-01-12/63/fi@" />
           <FRBRdate date="2018-01-12" name="Approval" />
           <FRBRauthor href="#valleala" as="#editor" />
-          <FRBRlanguage language="fin" />
+          <FRBRlanguage language="fi" />
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/fi/act/2018-01-12/63/fi@/!main.xml" />
