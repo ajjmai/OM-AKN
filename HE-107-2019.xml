@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cs01/part2-specs/schemas/akomantoso30.xsd">
+  <doc name="hallituksen esitys">
+    <meta>
+      <identification source="#valleala">
+        <FRBRWork>
+          <FRBRthis value="/akn/fi/he/2019/107/!main" />
+          <FRBRuri value="/akn/fi/he/2019/107/" />
+          <FRBRdate date="2020-01-16" name="" />
+          <FRBRauthor href="#hallitus" as="#author" />
+          <FRBRcountry value="fi" />
+          <FRBRnumber value="107/2019" />
+          <FRBRname value="Hallituksen esitys eduskunnalle laiksi työsopimuslain muuttamisesta ja siihen liittyviksi laeiksi" />
+          <FRBRprescriptive value="false" />
+          <FRBRauthoritative value="false" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/fi/he/2019/107/fi@/!main" />
+          <FRBRuri value="/akn/fi/he/2019/107/fi@" />
+          <FRBRdate date="2020-01-16" name="" />
+          <FRBRauthor href="#valleala" as="#editor" />
+          <FRBRlanguage language="fi" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/fi/he/2019/107/fi@/!main.xml" />
+          <FRBRuri value="/akn/fi/he/2019/107/fi@.xml" />
+          <FRBRdate date="2021-06-13" name="Generation" />
+          <FRBRauthor href="#valleala" as="#editor" />
+        </FRBRManifestation>
+      </identification>
+      <references source="#valleala"></references>
+    </meta>
+    <preface>
+      <p>
+        <docTitle>Hallituksen esitys eduskunnalle laiksi työsopimuslain muuttamisesta ja siihen liittyviksi laeiksi</docTitle>
+      </p>
+      <tblock>
+        <heading>ESITYKSEN PÄÄASIALLINEN SISÄLTÖ</heading>
+        <p>
+          Esityksessä ehdotetaan muutettavaksi työsopimuslakia, merityösopimuslakia, kunnallisesta viranhaltijasta annettua lakia sekä julkisesta työvoima- ja yrityspalvelusta annettua lakia. Esityksessä ehdotetaan, että työsopimuslakiin, merityösopimuslakiin ja kunnallisesta viranhaltijasta annettuun lakiin palautettaisiin niistä vuonna 2017 kumotut säännökset työnantajan velvollisuudesta ilmoittaa työntekijöiden irtisanomisesta työ- ja elinkeinotoimistolle, kun irtisanottavia työntekijöitä on vähintään kymmenen, sekä velvollisuudesta ilmoittaa irtisanottavalle työntekijälle tämän oikeudesta työllistymissuunnitelmaan. Julkisesta työvoima- ja yrityspalvelusta annettuun lakiin tehtäisiin edellä todettuihin säännösehdotuksiin liittyvä muutos sekä eräs tekninen muutos.
+        </p>
+        <p>
+          Esityksen tavoitteena on parantaa työ- ja elinkeinotoimistojen tiedonsaantia ja ennakointimahdollisuuksia niiden toiminta-alueella tapahtuvista vähintään kymmentä työntekijää koskevista irtisanomisista ja niistä seuraavista tarpeista julkisille työvoima- ja yrityspalveluille sekä lisätä työntekijöiden tiedonsaantia julkisista työvoima- ja yrityspalveluista irtisanomistilanteessa. Esityksen taustalla on työmarkkinoiden keskusjärjestöjen kesäkuussa 2019 julkaisema sopimus vuoden 2017 eläkeuudistuksen jatkoneuvotteluihin liittyvistä asioista.
+        </p>
+        <p>Lait on tarkoitettu tulemaan voimaan keväällä 2020.</p>
+      </tblock>
+    </preface>
+    <mainBody>
+      <tblock>
+        <num>1</num>
+        <heading>Asian tausta ja valmistelu</heading>
+        <tblock>
+          <num>1.1</num>
+          <heading>Tausta</heading>
+          <p>
+            Työmarkkinoiden keskusjärjestöt julkaisivat 11.6.2019 sopimuksen vuoden 2017 eläkeuudistuksen jatkoneuvotteluihin liittyvistä asioista (jäljempänä
+            <i>työmarkkinoiden keskusjärjestöjen sopimus</i>
+            tai
+            <i>sopimus</i>
+            ). Sopimus on järjestöjen ehdotus valtiovallalle ja eräille muille toimijoille säädösmuutosten ja selvitysten tekemisestä sekä toiminnan kehittämisestä. Muiden ehdotusten ohella sopimukseen sisältyy kirjaus, jonka mukaan työsopimuslakiin (55/2001) palautetaan työnantajan ilmoitusvelvollisuus työ- ja elinkeinotoimistolle sekä työnantajan tiedottamisvelvollisuus työllistymissuunnitelmasta työsopimuslain 9 luvun 3 a ja 3 b §:n muuttamisesta annetun lain (1051/2013) sisällön mukaisesti. Tähän hallituksen esitykseen sisältyvät ehdotukset työnantajan ilmoitus- ja tiedottamisvelvollisuuksien palauttamisesta.
+          </p>
+        </tblock>
+        <tblock>
+          <num>1.2</num>
+          <heading>Valmistelu</heading>
+          <p>Esitys on valmisteltu työ- ja elinkeinoministeriössä virkatyönä. Lisäksi esitysluonnosta on käsitelty kolmikantaisesti yhdessä työnantaja- ja työntekijäjärjestöjen kanssa pääministeri Sanna Marinin hallituksen työllisyyden edistämisen ministerityöryhmän alaisessa sääntelytyöryhmässä.</p>
+          <p>Esitysluonnoksesta on järjestetty lausuntokierros ajanjaksolla 27.9.2019 – 25.10.2019. Lausuntoja pyydettiin ehdotusten kannalta keskeisiltä ministeriöiltä ja työnantaja- ja työntekijäjärjestöiltä, elinkeino-, liikenne- ja ympäristökeskuksilta, ELY-keskusten sekä TE-toimistojen kehittämis- ja hallintokeskukselta (jäljempänä KEHA-keskus) sekä Ahvenanmaan maakuntahallitukselta. Lausuntoja pyydettiin myös merimiesasiain neuvottelukunnalta, jossa keskeiset merenkulun työnantaja- ja työntekijäjärjestöt ovat edustettuina. Lausuntopyyntö ja saadut lausunnot ovat nähtävillä työ- ja elinkeinoministeriön internetsivulla osoitteessa https://tem.fi/hankesivu?tunnus=TEM043:00/2019 sekä lausuntopalvelu.fi –sivustolla ( https://www.lausuntopalvelu.fi/FI/Proposal/Participation?proposalId=9c39c4d7-45e0-4910-a15f-19432bdd8f9b).</p>
+        </tblock>
+      </tblock>
+      <tblock>
+        <num>2</num>
+        <heading>Nykytila ja sen arviointi</heading>
+        <p>sisältö tähän</p>
+      </tblock>
+      <tblock>
+        <num>3</num>
+        <heading>Tavoitteet</heading>
+        <p>sisältö tähän</p>
+      </tblock>
+      <tblock>
+        <num>4</num>
+        <heading>Ehdotukset ja niiden vaikutukset</heading>
+        <tblock>
+          <num>4.1</num>
+          <heading>Keskeiset ehdotukset</heading>
+          <p>sisältö tähän</p>
+        </tblock>
+        <tblock>
+          <num>4.2</num>
+          <heading>Pääasialliset vaikutukset</heading>
+          <p>sisältö tähän</p>
+        </tblock>
+      </tblock>
+      <tblock>
+        <num>5</num>
+        <heading>Muut toteuttamisvaihtoehdot</heading>
+        <p>sisältö tähän</p>
+      </tblock>
+      <tblock>
+        <num>6</num>
+        <heading>Lausuntopalaute</heading>
+        <p>sisältö tähän</p>
+      </tblock>
+      <tblock>
+        <num>7</num>
+        <heading>Voimaantulo</heading>
+        <p>sisältö tähän</p>
+      </tblock>
+    </mainBody>
+    <conclusions>
+      <formula name="ponsi">
+        <block name="title">Ponsi</block>
+        <p>Edellä esitetyn perusteella annetaan eduskunnan hyväksyttäviksi seuraavat lakiehdotukset:</p>
+      </formula>
+      <container name="päiväys_ja_allekirjoitukset">
+        <p>Helsingissä 16.1.2020</p>
+        <p>
+          <signature>
+            Pääministeri
+            Sanna Marin
+            Työministeri
+            Tuula Haatainen
+          </signature>
+        </p>
+      </container>
+    </conclusions>
+    <components>
+      <component eId="cmp_1">
+        <documentRef eId="dref_1" href="cmpnts__cmp_1" showAs="lakiehdotukset" />
+      </component>
+      <component>
+        <documentRef eId="dref_2" href="cmpnts__cmp_2" showAs="rinnakkaistekstit" />
+      </component>
+    </components>
+  </doc>
+  <components eId="cmpnts">
+    <component eId="cmpnts__cmp_1">
+      <documentCollection name="lakiehdotukset">
+        <meta>
+          <identification source="#valleala"></identification>
+        </meta>
+        <collectionBody>
+          <component>
+            <num>1.</num>
+            <bill name="lakiehdotus">
+              <meta>
+                <identification source="#valleala"></identification>
+                <references source="#valleala"></references>
+              </meta>
+              <preface>
+                <p>
+                  <docTitle>Laki työsopimuslain muuttamisesta</docTitle>
+                </p>
+              </preface>
+              <preamble>
+                <formula name="">
+                  <p>Eduskunnan päätöksen mukaisesti</p>
+                  <block name="muutokset">
+                    <i>muutetaan</i>
+                    työsopimuslain (55/2001) 11 a luvun 7 §, sellaisena kuin se on laissa 73/2017, sekä
+                  </block>
+                  <block name="lisäykset">
+                    <i>lisätään</i>
+                    9 lukuun siitä lailla 204/2017 kumotun 3 a ja 3 b §:n tilalle uusi 3 a ja 3 b § seuraa-
+                vasti:
+                  </block>
+                </formula>
+              </preamble>
+              <body>
+                <chapter>
+                  <num>9 luku</num>
+                  <heading>Työsopimuksen päättämismenettely</heading>
+                  <section>
+                    <num>3 a §</num>
+                    <heading>Työnantajan ilmoitus työ- ja elinkeinotoimistolle</heading>
+                    <subsection>
+                      <content>
+                        <p>
+                        Työnantajan on ilmoitettava työntekijöiden irtisanomisesta viipymättä työ- ja elinkeinotoi- mistolle, jos 7 luvun 3, 4, 7 tai 8 §:ssä tarkoitetuilla taloudellisilla tai tuotannollisilla perusteilla irtisanottavia työntekijöitä on vähintään kymmenen.
+                      </p>
+                      </content>
+                    </subsection>
+                    <subsection>
+                      <content>
+                        <p>Edellä 1 momentissa tarkoitetusta ilmoituksesta on käytävä ilmi irtisanottavien työntekijöiden lukumäärä, ammatit tai työtehtävät ja työsuhteiden päättymisajankohdat.</p>
+                      </content>
+                    </subsection>
+                  </section>
+                  <section>
+                    <num>3 b §</num>
+                    <heading>Työnantajan tiedottamisvelvollisuus työllistymissuunnitelmasta</heading>
+                    <subsection>
+                      <content>
+                        <p>
+                    Työnantajalla on 3 a §:ssä tarkoitetuissa tapauksissa velvollisuus tiedottaa työntekijälle tämän oikeudesta julkisesta työvoima- ja yrityspalvelusta annetussa laissa tarkoitettuun työllistymis- suunnitelmaan.
+                  </p>
+                      </content>
+                    </subsection>
+                  </section>
+                </chapter>
+                <chapter>
+                  <num>11 a luku</num>
+                  <heading>Työnantajien yhteisvastuu palkattaessa laittomasti maassa oleskelevia työntekijöitä</heading>
+                  <section>
+                    <num>7 §</num>
+                    <heading>Muutoksenhaku</heading>
+                    <subsection>
+                      <content>
+                        <p>
+                      Tässä luvussa tarkoitettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen. Muutoksenhausta säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).
+                    </p>
+                      </content>
+                    </subsection>
+                  </section>
+                </chapter>
+                <section>
+                  <content>
+                    <p>
+                  Tämä laki tulee voimaan päivänä kuuta 20 .
+                </p>
+                  </content>
+                </section>
+              </body>
+            </bill>
+          </component>
+          <component>
+            <num>2.</num>
+            <bill name="lakiehdotus">
+              <meta></meta>
+              <preface>
+                <p>
+                  <docTitle>Laki merityösopimuslain muuttamisesta</docTitle>
+                </p>
+              </preface>
+              <preamble></preamble>
+              <body></body>
+            </bill>
+          </component>
+          <component>
+            <num>3.</num>
+            <bill name="lakiehdotus"></bill>
+          </component>
+          <component>
+            <num>4.</num>
+            <bill name="lakiehdotus"></bill>
+          </component>
+        </collectionBody>
+        <conclusions></conclusions>
+      </documentCollection>
+    </component>
+    <component eId="cmpnts__cmp_2">
+      <amendmentList name="liite_rinnakkaistekstit">
+        <meta></meta>
+        <collectionBody>
+          <component>
+            <num>1.</num>
+            <amendment name="rinnakkaisteksti">
+              <meta></meta>
+              <amendmentBody>
+                <amendmentHeading></amendmentHeading>
+                <amendmentContent></amendmentContent>
+              </amendmentBody>
+            </amendment>
+          </component>
+          <component>
+            <num>2.</num>
+            <amendment name="rinnakkaisteksti">
+              <meta></meta>
+              <amendmentBody>
+                <amendmentHeading></amendmentHeading>
+                <amendmentContent></amendmentContent>
+              </amendmentBody>
+            </amendment>
+          </component>
+          <component>
+            <num>3.</num>
+            <amendment name="rinnakkaisteksti">
+              <meta></meta>
+              <amendmentBody>
+                <amendmentHeading></amendmentHeading>
+                <amendmentContent></amendmentContent>
+              </amendmentBody>
+            </amendment>
+          </component>
+          <component>
+            <num>4.</num>
+            <amendment name="rinnakkaisteksti">
+              <meta></meta>
+              <amendmentBody>
+                <amendmentHeading></amendmentHeading>
+                <amendmentContent></amendmentContent>
+              </amendmentBody>
+            </amendment>
+          </component>
+        </collectionBody>
+      </amendmentList>
+    </component>
+  </components>
+</akomaNtoso>
