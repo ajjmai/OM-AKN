@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- HE 107/2019, https://www.finlex.fi/fi/esitykset/he/2019/20190107  -->
 <akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cs01/part2-specs/schemas/akomantoso30.xsd">
   <doc name="hallituksen esitys">
     <meta>
@@ -34,6 +35,7 @@
       <p>
         <docTitle>Hallituksen esitys eduskunnalle laiksi työsopimuslain muuttamisesta ja siihen liittyviksi laeiksi</docTitle>
       </p>
+      <!-- <tblock> elementin sijasta on mahdollista käyttää myös jotain muuta geneeristä elementtiä -->
       <tblock>
         <heading>ESITYKSEN PÄÄASIALLINEN SISÄLTÖ</heading>
         <p>
@@ -45,7 +47,10 @@
         <p>Lait on tarkoitettu tulemaan voimaan keväällä 2020.</p>
       </tblock>
     </preface>
-    <mainBody>
+    <mainBody title="perustelut">
+      <!-- tässä välissä on 'PERUSTELUT'-otsikko, sen voisi lisätä esimerkiksi antamalla  -->
+      <!-- <mainBody>-elementille title-attribuutin, kuten tässä on tehty -->
+      <!-- tai sitten luomalla mainBody:n sisälle vielä yhden hierarkiatason, jolla on oma <heading> -elementti -->
       <tblock>
         <num>1</num>
         <heading>Asian tausta ja valmistelu</heading>
@@ -112,6 +117,9 @@
         <block name="title">Ponsi</block>
         <p>Edellä esitetyn perusteella annetaan eduskunnan hyväksyttäviksi seuraavat lakiehdotukset:</p>
       </formula>
+      <!-- päiväys ja allekirjoitukset tulevat HE:n pdf-versiossa vasta lakiehdotusten jälkeen -->
+      <!-- tässä oli kokonaisuuden kannalta helpompi laittaa ne osaksi HE:n sisältöä, koska -->
+      <!-- lakiehdotukset ovat erikseen liitteinä -->
       <container name="päiväys_ja_allekirjoitukset">
         <p>Helsingissä 16.1.2020</p>
         <p>
@@ -137,13 +145,16 @@
     <component eId="cmpnts__cmp_1">
       <documentCollection name="lakiehdotukset">
         <meta>
+          <!-- Lakiehdotukset-liitekokonaisuus tarvitsee identification tiedot -->
+          <!-- Lisäksi jokainen yksittäinen lakiehdotus tarvitsee omat identification-tiedot  -->
           <identification source="#valleala"></identification>
         </meta>
         <collectionBody>
-          <component>
+          <component eId="cpmnts__cmp_1__cmp_1">
             <num>1.</num>
             <bill name="lakiehdotus">
               <meta>
+                <!-- Tähän tulisi yksittäisen lakiehdotuksen identification-tiedot -->
                 <identification source="#valleala"></identification>
                 <references source="#valleala"></references>
               </meta>
@@ -213,79 +224,215 @@
                     </subsection>
                   </section>
                 </chapter>
-                <section>
-                  <content>
-                    <p>
+              </body>
+              <conclusions>
+                <!-- muutossäännöksen merkitsemiseen on erilaisia vaihtoehtoja -->
+                <p>
                   Tämä laki tulee voimaan päivänä kuuta 20 .
                 </p>
-                  </content>
-                </section>
-              </body>
+              </conclusions>
             </bill>
           </component>
-          <component>
+          <component eId="cpmnts__cmp_1__cmp_2">
             <num>2.</num>
             <bill name="lakiehdotus">
-              <meta></meta>
+              <meta>
+                <!-- Tähän tulisi yksittäisen lakiehdotuksen identification-tiedot -->
+                <identification source="#valleala"></identification>
+                <references source="#valleala"></references>
+              </meta>
               <preface>
                 <p>
                   <docTitle>Laki merityösopimuslain muuttamisesta</docTitle>
                 </p>
               </preface>
-              <preamble></preamble>
-              <body></body>
+              <preamble>
+                <formula name="">
+                  <p>Eduskunnan päätöksen mukaisesti</p>
+                  <block name="lisäykset">lisätään merityösopimuslain (756/2011) 10 lukuun siitä lailla 205/2017 kumotun 4 ja 5 §:n tilalle uusi 4 ja 5 § seuraavasti:</block>
+                </formula>
+              </preamble>
+              <body>
+                <!-- Lakiehdotuksen sisältö -->
+              </body>
+              <conclusions>
+                <p>
+                  Tämä laki tulee voimaan päivänä kuuta 20 .
+                </p>
+              </conclusions>
             </bill>
           </component>
-          <component>
+          <component eId="cpmnts__cmp_1__cmp_3">
             <num>3.</num>
-            <bill name="lakiehdotus"></bill>
+            <bill name="lakiehdotus">
+              <preface>
+                <p>
+                  <docTitle>
+                    Laki kunnallisesta viranhaltijasta annetun lain 37 a §:n muuttamisesta
+                  </docTitle>
+                </p>
+              </preface>
+              <preamble></preamble>
+              <body></body>
+              <conclusions></conclusions>
+            </bill>
           </component>
-          <component>
+          <component eId="cpmnts__cmp_1__cmp_4">
             <num>4.</num>
-            <bill name="lakiehdotus"></bill>
+            <bill name="lakiehdotus">
+              <preface>
+                <p>
+                  <docTitle>
+                    Laki julkisesta työvoima- ja yrityspalvelusta annetun lain 12 luvun 3 §:n ja 14 luvun 1 §:n muuttamisesta</docTitle>
+                </p>
+              </preface>
+              <preamble></preamble>
+              <body></body>
+              <conclusions></conclusions>
+            </bill>
           </component>
         </collectionBody>
-        <conclusions></conclusions>
       </documentCollection>
     </component>
     <component eId="cmpnts__cmp_2">
       <amendmentList name="liite_rinnakkaistekstit">
-        <meta></meta>
+        <meta>
+          <!-- Rinnakkaistekstit-liitekokonaisuus tarvitsee identification tiedot -->
+          <!-- Lisäksi jokainen yksittäinen rinnakkaisteksti tarvitsee omat identification-tiedot  -->
+          <identification source="#valleala"></identification>
+        </meta>
         <collectionBody>
-          <component>
+          <component eId="cpmnts__cmp_2__cmp_1">
             <num>1.</num>
             <amendment name="rinnakkaisteksti">
-              <meta></meta>
+              <meta>
+                <identification source="#valleala"></identification>
+                <!-- amendment tyyppisen lain metatietoihin sisältyy lain muihin lakeihin tekemät muutokset -->
+                <analysis source="#valleala"></analysis>
+              </meta>
               <amendmentBody>
-                <amendmentHeading></amendmentHeading>
-                <amendmentContent></amendmentContent>
+                <amendmentHeading>
+                  <blockContainer>
+                    <p>Laki työsopimuslain muuttamisesta</p>
+                  </blockContainer>
+                  <blockContainer>
+                    <p>Eduskunnan päätöksen mukaisesti</p>
+                    <block name="muutokset">muutetaan työsopimuslain (55/2001) 11 a luvun 7 §, sellaisena kuin se on laissa 73/2017, sekä lisätään 9 lukuun siitä lailla 204/2017 kumotun 3 a ja 3 b §:n tilalle uusi 3 a ja 3 b § seuraavasti:</block>
+                  </blockContainer>
+                </amendmentHeading>
+                <amendmentContent>
+                  <blockContainer>
+                    <num>9 luku</num>
+                    <heading>Työsopimuksen päättämismenettely</heading>
+                    <p>
+                      <mod>
+                        <quotedStructure>
+                          <section>
+                            <num>3 a §</num>
+                            <heading>Työnantajan ilmoitus työ- ja elinkeinotoimistolle</heading>
+                            <subsection>
+                              <content>
+                                <p>
+                                Työnantajan on ilmoitettava työntekijöiden irtisanomisesta viipymättä työ- ja elinkeinotoi- mistolle, jos 7 luvun 3, 4, 7 tai 8 §:ssä tarkoitetuilla taloudellisilla tai tuotannollisilla perusteilla irtisanottavia työntekijöitä on vähintään kymmenen.
+                              </p>
+                              </content>
+                            </subsection>
+                            <subsection>
+                              <content>
+                                <p>Edellä 1 momentissa tarkoitetusta ilmoituksesta on käytävä ilmi irtisanottavien työntekijöiden lukumäärä, ammatit tai työtehtävät ja työsuhteiden päättymisajankohdat.</p>
+                              </content>
+                            </subsection>
+                          </section>
+                        </quotedStructure>
+                      </mod>
+                      <mod>
+                        <quotedStructure>
+                          <section>
+                            <num>3 b §</num>
+                            <heading>Työnantajan tiedottamisvelvollisuus työllistymissuunnitelmasta</heading>
+                            <subsection>
+                              <content>
+                                <p>
+                            Työnantajalla on 3 a §:ssä tarkoitetuissa tapauksissa velvollisuus tiedottaa työntekijälle tämän oikeudesta julkisesta työvoima- ja yrityspalvelusta annetussa laissa tarkoitettuun työllistymis- suunnitelmaan.
+                          </p>
+                              </content>
+                            </subsection>
+                          </section>
+                        </quotedStructure>
+                      </mod>
+                    </p>
+                  </blockContainer>
+                  <blockContainer>
+                    <num>11 a luku</num>
+                    <heading>Työnantajien yhteisvastuu palkattaessa laittomasti maassa oleskelevia työntekijöitä</heading>
+                    <p>
+                      <mod>
+                        <quotedStructure>
+                          <section>
+                            <num>7 §</num>
+                            <heading>Muutoksenhaku</heading>
+                            <subsection>
+                              <content>
+                                <p>
+                                  Tässä luvussa tarkoitettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen
+                                  <del> siten kuin hallintolainkäyttölaissa (586/1996) säädetään. Hallinto-oikeuden päätökseen saa hakea muutosta valittamalla vain, jos korkein hallinto-oikeus myöntää valitusluvan</del>
+                                  .
+                                </p>
+                              </content>
+                            </subsection>
+                          </section>
+                        </quotedStructure>
+                        <quotedStructure>
+                          <section>
+                            <num>7 §</num>
+                            <heading>Muutoksenhaku</heading>
+                            <subsection>
+                              <content>
+                                <p>
+                                  Tässä luvussa tarkoitettuun päätökseen saa hakea muutosta valittamalla hallinto-oikeuteen.
+                                  <ins> Muutoksenhausta säädetään oikeudenkäynnistä hallintoasioissa annetussa laissa (808/2019).</ins>
+                                </p>
+                              </content>
+                            </subsection>
+                          </section>
+                        </quotedStructure>
+                      </mod>
+                    </p>
+                  </blockContainer>
+                </amendmentContent>
               </amendmentBody>
             </amendment>
           </component>
-          <component>
+          <component eId="cpmnts__cmp_2__cmp_2">
             <num>2.</num>
             <amendment name="rinnakkaisteksti">
-              <meta></meta>
+              <meta>
+                <identification source="#valleala"></identification>
+              </meta>
               <amendmentBody>
                 <amendmentHeading></amendmentHeading>
                 <amendmentContent></amendmentContent>
               </amendmentBody>
             </amendment>
           </component>
-          <component>
+          <component eId="cpmnts__cmp_2__cmp_3">
             <num>3.</num>
             <amendment name="rinnakkaisteksti">
-              <meta></meta>
+              <meta>
+                <identification source="#valleala"></identification>
+              </meta>
               <amendmentBody>
                 <amendmentHeading></amendmentHeading>
                 <amendmentContent></amendmentContent>
               </amendmentBody>
             </amendment>
           </component>
-          <component>
+          <component eId="cpmnts__cmp_2__cmp_4">
             <num>4.</num>
             <amendment name="rinnakkaisteksti">
-              <meta></meta>
+              <meta>
+                <identification source="#valleala"></identification>
+              </meta>
               <amendmentBody>
                 <amendmentHeading></amendmentHeading>
                 <amendmentContent></amendmentContent>
