@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Laki työsopimuslain muuttamisesta 377/2018, https://www.finlex.fi/fi/laki/alkup/2018/20180377  -->
 <akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cs01/part2-specs/schemas/akomantoso30.xsd">
   <act name="laki">
     <meta>
@@ -28,34 +29,6 @@
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>
       </identification>
-      <analysis source="#valleala">
-        <activeModifications>
-          <textualMod eId="textualMod_1" type="insertion">
-            <source eId="textualMod_1__source" href="#chp_1__sec_11" />
-            <destination href="/akn/fi/act/2001-01-26/55/fi/!main@#chp_1__sec_11" />
-          </textualMod>
-          <textualMod eId="textualMod_2" type="substitution">
-            <source eId="textualMod_2__source" href="#chp_2__sec_4__subsec_2__para_9" />
-            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_4__subsec_2__para_9" />
-          </textualMod>
-          <textualMod eId="textualMod_3" type="substitution">
-            <source eId="textualMod_3__source" href="#chp_2__sec_11" />
-            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_11" />
-          </textualMod>
-          <textualMod eId="textualMod_4" type="substitution">
-            <source eId="textualMod_4__source" href="#chp_2__sec_17__subsec_1" />
-            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_17__subsec_1" />
-          </textualMod>
-          <textualMod eId="textualMod_5" type="insertion">
-            <source eId="textualMod_5__source" href="#chp_6__sec_4a" />
-            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_6" />
-          </textualMod>
-          <textualMod eId="textualMod_6" type="substitution">
-            <source eId="textualMod_6__source" href="#chp_13__sec_7__subsec_1" />
-            <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_13__sec_7__subsec_1" />
-          </textualMod>
-        </activeModifications>
-      </analysis>
     </meta>
     <preface>
       <p>
@@ -320,6 +293,7 @@
           </subsection>
         </section>
       </chapter>
+      <!-- pitää päättää miten voimaantulosäännös merkitään -->
       <hcontainer name="voimaantulo">
         <content>
           <p>Tämä laki tulee voimaan 1 päivänä kesäkuuta 2018.</p>
@@ -344,7 +318,6 @@
           Sauli Niinistö
           Työministeri
           Jari Lindström
-
         </signature>
       </p>
     </conclusions>

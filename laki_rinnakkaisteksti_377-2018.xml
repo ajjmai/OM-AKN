@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Laki työsopimuslain muuttamisesta 377/2018 -->
+<!-- HE 188/2017 osana oleva rinnakkaisteksti, s.52 ->, https://www.eduskunta.fi/FI/vaski/HallituksenEsitys/Documents/HE_188+2017.pdf  -->
 <akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cs01/part2-specs/schemas/akomantoso30.xsd">
   <amendment name="rinnakkaisteksti">
     <meta>
+      <!-- rinnakkaisteksti tarvitsee omat identification-tiedot -->
       <identification source="#valleala">
         <FRBRWork>
           <FRBRthis value="/akn/fi/amendment/2017/188/?/!main" />
@@ -28,14 +31,17 @@
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>
       </identification>
+      <!-- analysis-elementti sisältää listauksen kaikista tämän dokumentin muihin dokumentteihin tekemistä muutoksisa -->
       <analysis source="#valleala">
         <activeModifications>
           <textualMod eId="textualMod_1" type="insertion">
+            <!-- lisäys -->
             <source eId="textualMod_1__source" href="#mod_1" />
             <destination href="/akn/fi/act/2001-01-26/55/fi/!main@#chp_1" />
             <new href="mod_1__qst_1__chp_1__sec_11" />
           </textualMod>
           <textualMod eId="textualMod_2" type="substitution">
+            <!-- muutos -->
             <source eId="textualMod_2__source" href="#mod2" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_4__subsec_2__para_9" />
             <old href="mod_2__qst_1__chp_2__sec_4__subsec_2__para_9" />
@@ -47,6 +53,7 @@
             <new href="mod_3__qst_2__chp_2__sec_11__subsec_2" />
           </textualMod>
           <textualMod eId="textualMod_4" type="renumbering">
+            <!-- lisäyksen myötä numerointi muuttuu -->
             <source eId="textualMod_4__source" href="#mod3" />
             <destination href="/akn/fi/act/2001-01-26/55/fi@/!main#chp_2__sec_11__subsec_2" />
             <previous href="mod_3__qst_1__chp_2__sec_11__subsec_2" />
@@ -170,6 +177,7 @@
         </blockContainer>
       </amendmentHeading>
       <amendmentContent>
+        <!-- Tähän soveltuisi myös varmasti myös jokin muu geneerinen elementti kuten tblock -->
         <blockContainer>
           <blockContainer>
             <num>1 luku</num>
