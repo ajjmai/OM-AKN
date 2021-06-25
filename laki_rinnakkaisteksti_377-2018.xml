@@ -9,7 +9,7 @@
         <FRBRWork>
           <FRBRthis value="/akn/fi/amendment/2017/188/?/!main" />
           <FRBRuri value="/akn/fi/amendment/2017/188/?/" />
-          <FRBRdate date="2017-00-00" name="" />
+          <FRBRdate date="2017-12-14" name="HE antopäivä" />
           <FRBRauthor href="" as="#author" />
           <FRBRcountry value="fi" />
           <FRBRnumber value="188" />
@@ -20,7 +20,7 @@
         <FRBRExpression>
           <FRBRthis value="/akn/fi/amendment/2017/188/?/fi@/!main" />
           <FRBRuri value="/akn/fi/amendment/2017/188/?/fi@" />
-          <FRBRdate date="2017-00-00" name="Approval" />
+          <FRBRdate date="2017-12-14" name="HE antopäivä" />
           <FRBRauthor href="#valleala" as="#editor" />
           <FRBRlanguage language="fi" />
         </FRBRExpression>

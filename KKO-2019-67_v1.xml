@@ -7,6 +7,9 @@
         <FRBRWork>
           <FRBRthis value="/akn/fi/judgment/KKO/2019/67/!main" />
           <FRBRuri value="/akn/fi/judgment/KKO/2019/67" />
+          <FRBRalias name="ecli" value="ECLI:FI:KKO:2019:67" />
+          <FRBRalias name="taltionumero" value="" />
+          <FRBRalias name="diaarinumero" value="R2018/915" />
           <FRBRdate date="2019-08-13" name="antopäivä" />
           <FRBRauthor href="#kko" as="#author" />
           <FRBRcountry value="fi" />
@@ -26,7 +29,14 @@
         </FRBRManifestation>
       </identification>
     </meta>
-    <header></header>
+    <header>
+      <p>Pakkokeino - Erityinen kotietsintä - Takavarikko</p>
+      <p>Lähdesuoja</p>
+      <p>Diaarinumero: R2018/915</p>
+      <p>Taltionumero:</p>
+      <p>Antopäivä: 13.8.2019</p>
+      <p>ECLI-tunniste:</p>
+    </header>
     <judgmentBody>
       <introduction>
         <p>

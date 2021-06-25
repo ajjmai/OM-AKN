@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Laki työsopimuslain muuttamisesta 377/2018, https://www.finlex.fi/fi/laki/alkup/2018/20180377  -->
 <akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/cs01/part2-specs/schemas/akomantoso30.xsd">
-  <act name="laki">
+  <act name="laki" contains="originalVersion">
     <meta>
       <identification source="#valleala">
         <FRBRWork>
-          <FRBRthis value="/akn/fi/act/2018-05-18/377/!main" />
-          <FRBRuri value="/akn/fi/act/2018-05-18/377" />
+          <FRBRthis value="/akn/fi/act/2018/377/!main" />
+          <FRBRuri value="/akn/fi/act/2018/377" />
+          <FRBRalias name="eli" value="eli/sd/2018/377/alkup" />
           <FRBRdate date="2018-05-18" name="Approval" />
           <FRBRauthor href="#eduskunta" as="#author" />
           <FRBRcountry value="fi" />
@@ -16,15 +17,17 @@
           <FRBRauthoritative value="true" />
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/akn/fi/act/2018-05-18/377/fi@/!main" />
-          <FRBRuri value="/akn/fi/act/2018-05-18/377/fi@" />
+          <FRBRthis value="/akn/fi/act/2018/377/fi@/!main" />
+          <FRBRuri value="/akn/fi/act/2018/377/fi@" />
+          <FRBRalias name="eli" value="eli/sd/2018/377/alkup/fi" />
           <FRBRdate date="2018-05-18" name="Approval" />
           <FRBRauthor href="#valleala" as="#editor" />
           <FRBRlanguage language="fi" />
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/akn/fi/act/2018-05-18/377/fi@/!main.xml" />
-          <FRBRuri value="/akn/fi/act/2018-05-18/377/fi@.xml" />
+          <FRBRthis value="/akn/fi/act/2018/377/fi@/!main.xml" />
+          <FRBRuri value="/akn/fi/act/2018/377/fi@.xml" />
+          <FRBRalias name="eli" value="eli/sd/2018/377/alkup/fi/xml" />
           <FRBRdate date="2021-06-09" name="Generation" />
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>
