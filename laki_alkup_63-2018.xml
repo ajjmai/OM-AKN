@@ -26,7 +26,7 @@
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/fi/act/2018/63/fin@/!main.xml" />
-          <FRBRuri value="/akn/fi/act/2018/63/fin@.xml" />
+          <FRBRuri value="/akn/fi/act/2018/63/fin@.akn" />
           <FRBRalias name="eli" value="eli/sd/20180/63/alkup/fin/xml" />
           <FRBRdate date="2020-07-28" name="Generation" />
           <FRBRauthor href="#valleala" as="#editor" />

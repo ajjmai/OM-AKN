@@ -26,7 +26,7 @@
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/fi/amendment/2017/188/?/fin@/!main.xml" />
-          <FRBRuri value="/akn/fi/amendment/2017/188/?/fin@.xml" />
+          <FRBRuri value="/akn/fi/amendment/2017/188/?/fin@.akn" />
           <FRBRdate date="2021-06-12" name="Generation" />
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>

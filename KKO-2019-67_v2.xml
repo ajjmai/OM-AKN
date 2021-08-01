@@ -23,7 +23,7 @@
         </FRBRExpression>
         <FRBRManifestation>
           <FRBRthis value="/akn/fi/judgment/KKO/2019/67/fin@/!main.xml" />
-          <FRBRuri value="/akn/fi/judgment/KKO/2019/67/fin@.xml" />
+          <FRBRuri value="/akn/fi/judgment/KKO/2019/67/fin@.akn" />
           <FRBRdate date="2021-06-20" name="Generation" />
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>
