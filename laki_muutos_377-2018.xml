@@ -17,16 +17,16 @@
           <FRBRauthoritative value="true" />
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/akn/fi/act/2018/377/fi@/!main" />
-          <FRBRuri value="/akn/fi/act/2018/377/fi@" />
+          <FRBRthis value="/akn/fi/act/2018/377/fin@/!main" />
+          <FRBRuri value="/akn/fi/act/2018/377/fin@" />
           <FRBRalias name="eli" value="eli/sd/2018/377/alkup/fi" />
           <FRBRdate date="2018-05-18" name="Approval" />
           <FRBRauthor href="#valleala" as="#editor" />
-          <FRBRlanguage language="fi" />
+          <FRBRlanguage language="fin" />
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/akn/fi/act/2018/377/fi@/!main.xml" />
-          <FRBRuri value="/akn/fi/act/2018/377/fi@.xml" />
+          <FRBRthis value="/akn/fi/act/2018/377/fin@/!main.xml" />
+          <FRBRuri value="/akn/fi/act/2018/377/fin@.xml" />
           <FRBRalias name="eli" value="eli/sd/2018/377/alkup/fi/xml" />
           <FRBRdate date="2021-06-09" name="Generation" />
           <FRBRauthor href="#valleala" as="#editor" />

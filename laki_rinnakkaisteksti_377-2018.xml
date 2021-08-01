@@ -18,15 +18,15 @@
           <FRBRauthoritative value="false" />
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/akn/fi/amendment/2017/188/?/fi@/!main" />
-          <FRBRuri value="/akn/fi/amendment/2017/188/?/fi@" />
+          <FRBRthis value="/akn/fi/amendment/2017/188/?/fin@/!main" />
+          <FRBRuri value="/akn/fi/amendment/2017/188/?/fin@" />
           <FRBRdate date="2017-12-14" name="HE antopäivä" />
           <FRBRauthor href="#valleala" as="#editor" />
-          <FRBRlanguage language="fi" />
+          <FRBRlanguage language="fin" />
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/akn/fi/amendment/2017/188/?/fi@/!main.xml" />
-          <FRBRuri value="/akn/fi/amendment/2017/188/?/fi@.xml" />
+          <FRBRthis value="/akn/fi/amendment/2017/188/?/fin@/!main.xml" />
+          <FRBRuri value="/akn/fi/amendment/2017/188/?/fin@.xml" />
           <FRBRdate date="2021-06-12" name="Generation" />
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>

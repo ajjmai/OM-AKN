@@ -15,15 +15,15 @@
           <FRBRcountry value="fi" />
         </FRBRWork>
         <FRBRExpression>
-          <FRBRthis value="/akn/fi/judgment/KKO/2019/67/fi@/!main" />
-          <FRBRuri value="/akn/fi/judgment/KKO/2019/67/fi@" />
+          <FRBRthis value="/akn/fi/judgment/KKO/2019/67/fin@/!main" />
+          <FRBRuri value="/akn/fi/judgment/KKO/2019/67/fin@" />
           <FRBRdate date="2019-08-13" name="" />
           <FRBRauthor href="#valleala" as="#editor" />
-          <FRBRlanguage language="fi" />
+          <FRBRlanguage language="fin" />
         </FRBRExpression>
         <FRBRManifestation>
-          <FRBRthis value="/akn/fi/judgment/KKO/2019/67/fi@/!main.xml" />
-          <FRBRuri value="/akn/fi/judgment/KKO/2019/67/fi@.xml" />
+          <FRBRthis value="/akn/fi/judgment/KKO/2019/67/fin@/!main.xml" />
+          <FRBRuri value="/akn/fi/judgment/KKO/2019/67/fin@.xml" />
           <FRBRdate date="2021-06-20" name="Generation" />
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>
