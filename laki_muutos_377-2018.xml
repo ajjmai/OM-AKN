@@ -32,6 +32,9 @@
           <FRBRauthor href="#valleala" as="#editor" />
         </FRBRManifestation>
       </identification>
+      <references source="#valleala">
+        <TLCReference eId="muutettava_laki" href="/akn/fi/act/2001-01-26/55" name="laki" showAs="työsopimuslaki" />
+      </references>
     </meta>
     <preface>
       <p>
@@ -47,7 +50,11 @@
     <preamble>
       <formula name="">
         <p>Eduskunnan päätöksen mukaisesti</p>
-        <block name="muutokset">muutetaan työsopimuslain (55/2001) 2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti sekä 13 luvun 7 §:n 1 momentti,</block>
+        <block name="muutokset">
+          muutetaan
+          <ref href="/akn/fi/act/2001-01-26/55" refersTo="muutettava_laki">työsopimuslain (55/2001)</ref>
+          2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti sekä 13 luvun 7 §:n 1 momentti,
+        </block>
         <block name="alkuperäiset">sellaisina kuin ne ovat, 2 luvun 4 §:n 2 momentin 9 kohta, 11 § ja 17 §:n 1 momentti laissa 1448/2016 sekä 13 luvun 7 §:n 1 momentti laissa 1467/2016, sekä</block>
         <block name="lisäykset">lisätään 1 lukuun uusi 11 § ja 6 lukuun uusi 4 a § seuraavasti:
         </block>
