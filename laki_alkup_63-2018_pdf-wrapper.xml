@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Laki avaruustoiminnasta 63/2018 https://www.finlex.fi/fi/laki/alkup/2018/20180063-->
+<!-- xml wrapper lain pdf-versiolle -->
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0 http://docs.oasis-open.org/legaldocml/akn-core/v1.0/os/part2-specs/schemas/akomantoso30.xsd">
+  <act name="laki" contains="originalVersion">
+    <meta>
+      <identification source="#valleala">
+        <FRBRWork>
+          <FRBRthis value="/akn/fi/act/2018/63/!main" />
+          <FRBRuri value="/akn/fi/act/2018/63" />
+          <FRBRalias name="eli" value="eli/sd/20180/63/alkup" />
+          <FRBRdate date="2018-01-12" name="Approval" />
+          <FRBRauthor href="#eduskunta" as="#author" />
+          <FRBRcountry value="fi" />
+          <FRBRnumber value="63" />
+          <FRBRname value="Laki avaruustoiminnasta" />
+          <FRBRprescriptive value="true" />
+          <FRBRauthoritative value="true" />
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/fi/act/2018/63/fin@/!main" />
+          <FRBRuri value="/akn/fi/act/2018/63/fin@" />
+          <FRBRalias name="eli" value="eli/sd/2018/63/alkup/fin" />
+          <FRBRdate date="2018-01-12" name="Approval" />
+          <FRBRauthor href="#valleala" as="#editor" />
+          <FRBRlanguage language="fin" />
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/fi/act/2018/63/fin@/!main.pdf" />
+          <FRBRuri value="/akn/fi/act/2018/63/fin@.akn" />
+          <FRBRalias name="eli" value="eli/sd/20180/63/alkup/fin/pdf" />
+          <FRBRdate date="2020-07-28" name="Generation" />
+          <FRBRauthor href="#valleala" as="#editor" />
+        </FRBRManifestation>
+      </identification>
+    </meta>
+  </act>
+</akomaNtoso>
